@@ -24,6 +24,7 @@
 </div>
 
 ---
+<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" />
 
 ## ⚡ Core Functionality
 
