@@ -25,7 +25,7 @@
 
 ---
 
-<img width="702" height="1600" alt="image" src="https://github.com/user-attachments/assets/33adcb93-bd5c-4538-9aa2-62f31a24b9ee" />
+
 
 ## ⚡ Core Functionality
 
