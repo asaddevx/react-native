@@ -29,15 +29,24 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Transforming mental health tracking into a compassionate, real-time companion synced with **Gemini AI Sentiment Analysis**.
 * **Key Tech**: React Native, Expo SDK, Google Gemini AI.
 
-### 📋 [Smart Complaint Management](https://www.google.com/search?q=./smart_waste_App) | Enterprise Logic
+---
 
-* **Disruption**: Decentralizing university accountability by allowing real-time reporting and **automated 24h escalation** directly from mobile.
-* **Key Tech**: Flutter, Supabase Realtime, RLS.
+### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/flutter-) | Environmental Logic
+* **Disruption**: Optimizing urban sanitation by implementing **real-time fill-level tracking** and automated route coordination to eliminate overflowing collection points.
+* **Key Tech**: Flutter, IoT Integration, Google Maps API, Firebase Realtime.
 
-### 🩸 [BloodLink Mobile](https://www.google.com/search?q=./blood_donations_system) | Medical Logistics
+### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/flutter-) | Financial Intelligence
+* **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
+* **Key Tech**: Flutter, SQLite (Local-First), Sync Logic, Data Visualization.
 
-* **Disruption**: Reducing matching latency in life-critical situations through **real-time Socket.IO alerts** for nearby donors.
-* **Key Tech**: React Native, Geolocation Indexing, Socket.IO.
+---
+
+### 🛠️ Why these updates fit your "Midnight" profile:
+* **Problem-Solver Framing**: Instead of just saying "it tracks trash," we use **"Optimizing urban sanitation"** to show you think about the big picture.
+* **Technical Depth**: Highlighting **"IoT Integration"** and **"Predictive spending"** proves you can handle data-heavy applications.
+* **Consistent Layout**: These follow the exact same bullet-point style as your other 7 projects, keeping the "Showreel" clean and professional.
+
+**Would you like me to add a "Technical Specs" table for these two new projects to show which specific State Management (Bloc, Provider, or Riverpod) you used?**
 
 ### ✈️ [Smart Travel Planner](https://www.google.com/search?q=./Smart_Travel_Planne_App) | AI Logistics
 
