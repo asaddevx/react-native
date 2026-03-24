@@ -74,7 +74,7 @@ app/
 ---
 ## 📫 Connect with the Architect
 
-* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-portfolio-pi.vercel.app/)
+* **Portfolio**: [asad-portfolio-pi.vercel.app](https://asad-lime-six.vercel.app/)
 * **Status**: `SYSTEMS_OPERATIONAL` 🟢
 
 ---
