@@ -32,6 +32,124 @@ Developed as a **final-year project** at **COMSATS University, Islamabad**, unde
 
 ---
 
+### 📱 App Screenshots  
+
+<table>
+  <!-- Row 1: Core Screens -->
+  <tr>
+    <td align="center"><b>Loading Screen</b></td>
+    <td align="center"><b>Home Screen</b></td>
+    <td align="center"><b>Authentication</b></td>
+    <td align="center"><b>Menu Bar</b></td>
+    <td align="center"><b>Login Screen</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d97f498e-ca15-4290-8cd3-847790b0ac07" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/b65f91de-e441-4af7-bddb-5cccfa2e41a5" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/e35afce3-421c-4a0a-9652-70d6594bc5df" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a3793e36-b693-4c4e-8fe4-40cdaec43fea" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/12b6da68-b7a6-4347-82c0-cc830858570c" width="200"></td>
+  </tr>
+
+  <!-- Row 2: Auth & Dashboard -->
+  <tr>
+    <td align="center"><b>Signup Screen</b></td>
+    <td align="center"><b>Forgot Password</b></td>
+    <td align="center"><b>User Dashboard</b></td>
+    <td align="center"><b>Transactions Progress</b></td>
+    <td align="center"><b>Graphs</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/eb0d7362-9350-447b-9a01-7d16c56e6485" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/d4632ea8-3ba0-4ac4-92db-14af39f0c305" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/42a8e0f4-d3b4-435b-8bf4-45a2e0a5b94f" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/9d511023-de14-49b1-bca1-fc7013fb3873" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/0e91b825-293c-43ff-9ed2-9023dc021ac9" width="200"></td>
+  </tr>
+
+  <!-- Row 3: Transactions & Budgets -->
+  <tr>
+    <td align="center"><b>Transactions</b></td>
+    <td align="center"><b>Add Transaction</b></td>
+    <td align="center"><b>Edit Transaction</b></td>
+    <td align="center"><b>Budgets</b></td>
+    <td align="center"><b>Add Budget</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/94ce970c-5f58-4ce0-9493-502916e7e323" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/df9c2fc4-666c-4936-adad-04d09a318451" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/6737a735-29f6-48ea-a2cf-d12f1ce58665" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/8111c7da-6906-4ae8-b7e1-f79aaa139f50" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/31c57721-9234-4e54-a7da-c597b45d0593" width="200"></td>
+  </tr>
+
+  <!-- Row 4: Budget Tools -->
+  <tr>
+    <td align="center"><b>Edit Budget</b></td>
+    <td align="center"><b>Smart Budgeting</b></td>
+    <td align="center"><b>Budget Tips</b></td>
+    <td align="center"><b>Create Category</b></td>
+    <td align="center"><b>App Settings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/cf7c7ca9-c20f-40d5-a6e5-ee6b0a8ca5a0" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/34359813-664f-4da4-a435-16f39850aba6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/43052369-9c5d-47e6-b591-613c1984060d" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/55d86cbe-ef02-4d87-8c2c-f8114dab9bf6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/e35c3268-fc6a-41ef-ba55-4760cda80317" width="200"></td>
+  </tr>
+
+  <!-- Row 5: Analytics -->
+  <tr>
+    <td align="center"><b>Charts</b></td>
+    <td align="center"><b>Monthly Spending</b></td>
+    <td align="center"><b>AI Insights</b></td>
+    <td align="center"><b>AI Predictions</b></td>
+    <td align="center"><b>AI Savings</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/c271e4bb-3103-4fed-a410-e5dd0bb3add4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/88097e75-7a19-4a80-a456-bdf7b1892b66" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ceda6abc-d230-4efe-bd48-4bb007baa166" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/517fad98-b305-4a1f-84dc-99d2dbad48e0" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/d2b2514b-7563-495d-91c2-4557987bc8f2" width="200"></td>
+  </tr>
+
+  <!-- Row 6: Real-time Analytics -->
+  <tr>
+    <td align="center"><b>Current Insights</b></td>
+    <td align="center"><b>Month Prediction</b></td>
+    <td align="center"><b>About</b></td>
+    <td align="center"><b>Privacy Policy</b></td>
+    <td align="center"><b>Contact</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e507dd12-4ef4-44c9-b830-d06eaac0c6e6" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/91f5dfaf-0619-485d-a605-c4d71b59b30d" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/30ae08aa-aae6-4d42-aa25-c2b4694b004d" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/4961d1f8-c752-4c86-865e-a4b030c4772c" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/4c3712ee-9830-482f-a171-b60b78208512" width="200"></td>
+  </tr>
+
+  <!-- Row 7: Support -->
+  <tr>
+    <td align="center"><b>Help & Support</b></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/6745ef3c-cc20-4a5c-97d8-aeb647c25365" width="200"></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
 ## 🏗️ Core Features Architecture
 
 ### 📱 Module 1: User Account Management *(Sprint 1, Weeks 1-2)*
@@ -421,125 +539,6 @@ feedback: {
 - **User-Centric Design**: Professional UI/UX implementation
 - **Scalable Architecture**: Enterprise-ready codebase
 
----
-
-### 📱 App Screenshots  
-
-<table>
-  <!-- Row 1: Core Screens -->
-  <tr>
-    <td align="center"><b>Loading Screen</b></td>
-    <td align="center"><b>Home Screen</b></td>
-    <td align="center"><b>Authentication</b></td>
-    <td align="center"><b>Menu Bar</b></td>
-    <td align="center"><b>Login Screen</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/d97f498e-ca15-4290-8cd3-847790b0ac07" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/b65f91de-e441-4af7-bddb-5cccfa2e41a5" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e35afce3-421c-4a0a-9652-70d6594bc5df" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a3793e36-b693-4c4e-8fe4-40cdaec43fea" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/12b6da68-b7a6-4347-82c0-cc830858570c" width="200"></td>
-  </tr>
-
-  <!-- Row 2: Auth & Dashboard -->
-  <tr>
-    <td align="center"><b>Signup Screen</b></td>
-    <td align="center"><b>Forgot Password</b></td>
-    <td align="center"><b>User Dashboard</b></td>
-    <td align="center"><b>Transactions Progress</b></td>
-    <td align="center"><b>Graphs</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/eb0d7362-9350-447b-9a01-7d16c56e6485" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/d4632ea8-3ba0-4ac4-92db-14af39f0c305" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/42a8e0f4-d3b4-435b-8bf4-45a2e0a5b94f" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/9d511023-de14-49b1-bca1-fc7013fb3873" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/0e91b825-293c-43ff-9ed2-9023dc021ac9" width="200"></td>
-  </tr>
-
-  <!-- Row 3: Transactions & Budgets -->
-  <tr>
-    <td align="center"><b>Transactions</b></td>
-    <td align="center"><b>Add Transaction</b></td>
-    <td align="center"><b>Edit Transaction</b></td>
-    <td align="center"><b>Budgets</b></td>
-    <td align="center"><b>Add Budget</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/94ce970c-5f58-4ce0-9493-502916e7e323" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/df9c2fc4-666c-4936-adad-04d09a318451" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/6737a735-29f6-48ea-a2cf-d12f1ce58665" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/8111c7da-6906-4ae8-b7e1-f79aaa139f50" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/31c57721-9234-4e54-a7da-c597b45d0593" width="200"></td>
-  </tr>
-
-  <!-- Row 4: Budget Tools -->
-  <tr>
-    <td align="center"><b>Edit Budget</b></td>
-    <td align="center"><b>Smart Budgeting</b></td>
-    <td align="center"><b>Budget Tips</b></td>
-    <td align="center"><b>Create Category</b></td>
-    <td align="center"><b>App Settings</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cf7c7ca9-c20f-40d5-a6e5-ee6b0a8ca5a0" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/34359813-664f-4da4-a435-16f39850aba6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/43052369-9c5d-47e6-b591-613c1984060d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/55d86cbe-ef02-4d87-8c2c-f8114dab9bf6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e35c3268-fc6a-41ef-ba55-4760cda80317" width="200"></td>
-  </tr>
-
-  <!-- Row 5: Analytics -->
-  <tr>
-    <td align="center"><b>Charts</b></td>
-    <td align="center"><b>Monthly Spending</b></td>
-    <td align="center"><b>AI Insights</b></td>
-    <td align="center"><b>AI Predictions</b></td>
-    <td align="center"><b>AI Savings</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c271e4bb-3103-4fed-a410-e5dd0bb3add4" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/88097e75-7a19-4a80-a456-bdf7b1892b66" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/ceda6abc-d230-4efe-bd48-4bb007baa166" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/517fad98-b305-4a1f-84dc-99d2dbad48e0" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/d2b2514b-7563-495d-91c2-4557987bc8f2" width="200"></td>
-  </tr>
-
-  <!-- Row 6: Real-time Analytics -->
-  <tr>
-    <td align="center"><b>Current Insights</b></td>
-    <td align="center"><b>Month Prediction</b></td>
-    <td align="center"><b>About</b></td>
-    <td align="center"><b>Privacy Policy</b></td>
-    <td align="center"><b>Contact</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e507dd12-4ef4-44c9-b830-d06eaac0c6e6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/91f5dfaf-0619-485d-a605-c4d71b59b30d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/30ae08aa-aae6-4d42-aa25-c2b4694b004d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/4961d1f8-c752-4c86-865e-a4b030c4772c" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/4c3712ee-9830-482f-a171-b60b78208512" width="200"></td>
-  </tr>
-
-  <!-- Row 7: Support -->
-  <tr>
-    <td align="center"><b>Help & Support</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/6745ef3c-cc20-4a5c-97d8-aeb647c25365" width="200"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
----
 
 ## 📫 Connect with the Architect
 
