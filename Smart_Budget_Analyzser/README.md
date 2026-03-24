@@ -540,11 +540,6 @@ feedback: {
 </table>
 
 ---
-supported vidos:
-  <td><img src="https://github.com/user-attachments/assets/4c3712ee-9830-482f-a171-b60b78208512" width="200"></td>
-
-
----
 
 ## 📫 Connect with the Architect
 
