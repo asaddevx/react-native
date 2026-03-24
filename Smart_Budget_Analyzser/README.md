@@ -423,24 +423,6 @@ feedback: {
 
 ---
 
-## 📞 Contact & Support
-
-### 👨‍�� Development Team
-- **Lead Developer**: Asadullah (CHTFA2BSE-037)
-- **Co-Developer**: Muhammad Taimoor (FA22-B-SEE-072)
-- **Supervisor**: Ma'am Komal Hassan
-
-### 🎓 Academic Institution
-- **University**: COMSATS University, Islamabad
-- **Department**: Computer Science
-- **Project**: Final Year Capstone Project
-
----
-
-*Made with ❤️ by AK~~37 | SmartBudgetAnalyzer v1.1*
-
----
-
 ### 📱 App Screenshots  
 
 <table>
