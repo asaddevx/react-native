@@ -60,8 +60,8 @@ src/
 ├── services/     # Gemini AI & Weather API integrations
 └── utils/        # PDF Generation & Data export logic
 
+```
 ---
-
 ## 📫 Connect with the Architect
 
 * **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
