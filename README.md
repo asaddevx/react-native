@@ -29,7 +29,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Transforming mental health tracking into a compassionate, real-time companion synced with **Gemini AI Sentiment Analysis**.
 * **Key Tech**: React Native, Expo SDK, Google Gemini AI.
 
-### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/react-native) | Environmental Logic
+### 🗑️ [Smart Waste Management](https://github.com/ATdeveloper911/react-native/tree/main/smart_waste_App/smart_waste_management_system/) | Environmental Logic
 * **Disruption**: Optimizing urban sanitation by implementing **QR code** and automated route coordination to eliminate overflowing collection points.
 * **Key Tech**: React Native, QR code , Google Maps API, Firebase Realtime.
 
