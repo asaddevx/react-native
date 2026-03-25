@@ -33,7 +33,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Optimizing urban sanitation by implementing **QR code** and automated route coordination to eliminate overflowing collection points.
 * **Key Tech**: React Native, QR code , Google Maps API, Firebase Realtime.
 
-### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native) | Financial Intelligence
+### 💰 [Smart Budget Analyzer](https://github.com/ATdeveloper911/react-native/tree/main/Smart_Budget_Analyzser/) | Financial Intelligence
 * **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 * **Key Tech**: Ract Native, Supabase (storage) , Firebase(Authentication) Sync Logic, Data Visualization.
 
