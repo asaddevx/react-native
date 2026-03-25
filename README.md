@@ -63,7 +63,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 ## 📫 Connect with the Architect
 
 <div align="center">
-  <p><strong>SYSTEMS_STATUS: ReactNative_System_OPERATIONAL ACTIVE 🟢</strong></p>
+  <p><strong>SYSTEMS_STATUS: ReactNative_System_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
 
   <a href="https://asad-lime-six.vercel.app/">
@@ -75,7 +75,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
   </a>
   &nbsp;
   <a href="mailto:asadullah.devop@gmail.com">
-    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75" alt="Email" />
+    <img src="https://img.shields.io/badge/SEND_EMAIL-282c34?style=for-the-badge&logo=gmail&logoColor=E06C75/n/n" alt="Email" />
   </a>
 </div>
 
