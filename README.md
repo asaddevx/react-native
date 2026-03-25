@@ -19,7 +19,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 ## 📂 Repository Roadmap: The Mobile Ecosystems
 
-### 🏆 [Gold Bazar (GoldDesk)](https://github.com/ATdeveloper911/react-native/GOLD_BAZAR) | Fintech & Physics
+### 🏆 [Gold Bazar (GoldDesk)](https://github.com/ATdeveloper911/react-native/tree/main/GOLD_BAZAR/) | Fintech & Physics
 
 * **Disruption**: Moving lab-grade gold testing and **Tola/Masha/Ratti** conversion from a legacy desk terminal to a high-precision mobile OS.
 * **Key Tech**: React Native, Archimedes' Principle Engine, Firebase Fingerprinting.
