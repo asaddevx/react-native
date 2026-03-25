@@ -37,7 +37,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Disruption**: Transforming raw transaction data into actionable financial strategy through **automated categorization** and predictive spending alerts.
 * **Key Tech**: Ract Native, Supabase (storage) , Firebase(Authentication) Sync Logic, Data Visualization.
 
-### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/react-native/Smart_Travel_Planne_App) | AI Logistics
+### ✈️ [Smart Travel Planner](https://github.com/ATdeveloper911/react-native/tree/main/Smart_Travel_Planne_App/) | AI Logistics
 
 * **Disruption**: Eliminating coordination friction in group travel through **Hybrid Budget Calculators** and AI guidance.
 * **Key Tech**: React Native, Google Maps Platform.
