@@ -61,17 +61,9 @@
 | **State** | React Context API + Custom Hooks |
 | **Sync** | Offline-first sync queue with AsyncStorage |
 
----
-
-
-   ## 📫 Connect with the Architect
-
-* **Portfolio**: [asad-lime-six.vercel.app](https://asad-lime-six.vercel.app/)
-* **Contact**: [asadullah.devop@gmail.com](mailto:asadullah.devop@gmail.com)
-* **Status**: `MOBILITY_OPERATIONAL` 🟢
-
 
 ---
+
 ## 📫 Connect with the Architect
 
 <div align="center">
