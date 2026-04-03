@@ -48,7 +48,8 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Enterprise Synchronization**: Every app acts as a real-time "Handshake" with central web and desktop terminals.
 * **Scientific Precision**: Implementation of complex domain logic, from **fluid physics** to **traditional unit math**.
 * **Security & Accountability**: Enforcing **Device Fingerprinting** and **Audit Trails** at the mobile entry point.
-
+---
+## 📊 Repository Analytics
 ---
 
 ## 📫 Connect with the Architect
