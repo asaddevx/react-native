@@ -55,7 +55,6 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 - **Offline-First & Local-First Design** — Seamless experience even without internet
 - **High-Performance UI** — Optimized with Reanimated 3, Gesture Handler, and FlashList
 - **Real-time Capabilities** — Socket.IO integration for live updates
-- **Real-time Capabilities** — Socket.IO integration for live updates
 - **AI Integration** — Gemini AI powered features (e.g., MindSpace sentiment analysis)
 - **Production-Grade State Management** — Zustand, Redux Toolkit, and Context API patterns
 - **Cross-Platform Excellence** — Beautiful, consistent UI on both iOS and Android
