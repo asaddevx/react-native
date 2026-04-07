@@ -124,6 +124,10 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
 
 ---
 
+## 📊 Project Analytics
+
+
+---
 ## 📫 Connect with the Architect
 
 <div align="center">
