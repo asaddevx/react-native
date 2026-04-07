@@ -138,7 +138,11 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/MERN-000000?style=for-the-badge&logo=mern&logoColor=white" alt="MERN" />
-  
+  <img src="https://img.shields.io/badge/Physics_Simulation-FF6F00?style=for-the-badge" alt="Physics Simulation" />
+  <img src="https://img.shields.io/badge/Archimedes_Principle-00BFFF?style=for-the-badge" alt="Archimedes Principle" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
 ---
 ## 📫 Connect with the Architect
 
