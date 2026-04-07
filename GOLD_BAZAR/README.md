@@ -125,6 +125,9 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
 ---
 
 ## ✨ Gold Bazar Key Highlights
+- **Interactive Physics-Based Laboratory Suite** — Real-time simulation of Archimedes’ Principle with accurate buoyancy, density, and volume calculations
+- **Educational & Practical Lab Tool** — Designed for students and researchers to understand and experiment with fluid mechanics and classical physics
+- **Traditional Weight Conversion System** — Comprehensive unit converter for scientific and commercial weight measurements
 
 ---
 
