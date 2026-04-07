@@ -125,7 +125,10 @@ Currently, the local gold testing industry is paralyzed by decade-old, offline l
 ---
 
 ## 📊 Project Analytics
-
+<p align="center">
+  <!-- Gold Bazar Project Stats -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=react-native&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Gold Bazar Project Stats" />
+</p>
 
 ---
 ## 📫 Connect with the Architect
