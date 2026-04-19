@@ -82,7 +82,7 @@ app/
 - **Cross-Platform Excellence** — Consistent and responsive experience on both iOS and Android
 - **Privacy-First Design** — Sensitive emotional data handled with care and local-first principles
 
-
+A thoughtful and intelligent mental wellness application that combines AI with empathetic design to help users improve their emotional health.
 ---
 ## 📊 Project Analytics
 
