@@ -77,6 +77,8 @@ app/
 - **Gemini AI Integration** — Intelligent sentiment analysis and personalized mental health insights using Google’s Gemini AI
 - **Mood Tracking & Journaling** — Daily mood logging with AI-generated reflections and recommendations
 - **Relaxation & Mindfulness Features** — Guided breathing exercises, calming sounds, and peaceful UI
+- **Modern TypeScript Architecture** — Clean, type-safe codebase with Zustand for state management
+- **Smooth Animations** — Beautiful transitions powered by Reanimated 3
 
 
 ---
