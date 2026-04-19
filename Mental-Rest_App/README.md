@@ -71,6 +71,8 @@ app/
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
 ```
+## 📊 Project Analytics
+
 ---
 
 ## 📫 Connect with the Architect
