@@ -83,7 +83,8 @@ app/
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  
+  <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
 ---
 
 ## 📫 Connect with the Architect
