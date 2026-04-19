@@ -79,6 +79,8 @@ app/
 - **Relaxation & Mindfulness Features** — Guided breathing exercises, calming sounds, and peaceful UI
 - **Modern TypeScript Architecture** — Clean, type-safe codebase with Zustand for state management
 - **Smooth Animations** — Beautiful transitions powered by Reanimated 3
+- **Cross-Platform Excellence** — Consistent and responsive experience on both iOS and Android
+- **Privacy-First Design** — Sensitive emotional data handled with care and local-first principles
 
 
 ---
