@@ -70,6 +70,7 @@ src/
 - **Budget Optimization** — Smart expense planner that helps users stay within their travel budget
 - **Modern React Native Architecture** — Built with TypeScript, Zustand, and clean, scalable code
 - **Smooth Animations & UX** — Delightful user experience with Reanimated for fluid interactions
+- **Cross-Platform Excellence** — High-quality, responsive design for both iOS and Android
 
 ---
 ## 📊 Project Analytics
