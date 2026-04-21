@@ -61,6 +61,9 @@ src/
 └── utils/        # PDF Generation & Data export logic
 
 ```
+## ✨ Smart Travel Planner App Key Highlights
+
+---
 ## 📊 Project Analytics
 <p align="center">
   <!-- Smart Travel Planner App Project Stats -->
