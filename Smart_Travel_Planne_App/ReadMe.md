@@ -72,6 +72,7 @@ src/
 - **Smooth Animations & UX** — Delightful user experience with Reanimated for fluid interactions
 - **Cross-Platform Excellence** — High-quality, responsive design for both iOS and Android
 
+An intelligent and user-friendly travel companion app that leverages AI to make trip planning smarter, faster, and more enjoyable.
 ---
 ## 📊 Project Analytics
 <p align="center">
