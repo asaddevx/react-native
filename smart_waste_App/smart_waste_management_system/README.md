@@ -68,6 +68,8 @@
 - **Real-Time Bin Monitoring** — Live status updates for waste bins with fill-level sensors and overflow alerts
 - **Dynamic Route Planning** — Reduces fuel consumption and collection time by 30-40% using AI-driven route optimization
 - **Offline-First Architecture** — Drivers can log collections without internet; data syncs automatically when back online
+- **QR-Based Verification System** — Residents scan QR codes to confirm pickups, eliminating disputes and false reports
+- **Multi-Role Dashboard** — Dedicated interfaces for Admins, Collection Drivers, and Residents with granular permissions
 
 ---
 ## 📊 Project Analytics
