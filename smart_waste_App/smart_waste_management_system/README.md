@@ -61,6 +61,8 @@
 | **State** | React Context API + Custom Hooks |
 | **Sync** | Offline-first sync queue with AsyncStorage |
 
+---
+## 📊 Project Analytics
 
 ---
 
