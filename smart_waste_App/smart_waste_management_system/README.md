@@ -87,9 +87,9 @@ A complete municipal waste management solution that reduces operational costs, i
 <p align="center">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
+  <img src="https://img.shields .io/badge/Gemini_AI-8E75FF?style=for-the-badge" alt="Gemini AI" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
    <img src="https://img.shields.io/badge/MapLibre-00B4D8?style=for-the-badge" alt="MapLibre" />
