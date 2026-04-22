@@ -62,6 +62,11 @@
 | **Sync** | Offline-first sync queue with AsyncStorage |
 
 ---
+## ✨ Smart Waste Management System Key Highlights
+
+- **AI-Powered Waste Collection Optimization** — Intelligent React Native mobile app that uses Gemini AI to optimize collection routes and predict bin fill-levels
+
+---
 ## 📊 Project Analytics
 
 <p align="center">
