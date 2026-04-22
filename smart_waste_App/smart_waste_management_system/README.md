@@ -74,6 +74,7 @@
 - **Modern React Native Architecture** — Built with TypeScript, Zustand, React Query, and clean, scalable code
 - **Real-Time Fleet Tracking** — Live driver location and ETA updates using MapLibre GL
 
+A complete municipal waste management solution that reduces operational costs, improves collection efficiency, and provides transparency for residents and administrators.
 ---
 ## 📊 Project Analytics
 
