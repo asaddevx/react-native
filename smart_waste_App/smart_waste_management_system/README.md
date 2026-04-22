@@ -70,6 +70,8 @@
 - **Offline-First Architecture** — Drivers can log collections without internet; data syncs automatically when back online
 - **QR-Based Verification System** — Residents scan QR codes to confirm pickups, eliminating disputes and false reports
 - **Multi-Role Dashboard** — Dedicated interfaces for Admins, Collection Drivers, and Residents with granular permissions
+- **Weight-Based Billing Engine** — Automated invoice generation based on actual waste weight with dynamic pricing
+- **Modern React Native Architecture** — Built with TypeScript, Zustand, React Query, and clean, scalable code
 
 ---
 ## 📊 Project Analytics
