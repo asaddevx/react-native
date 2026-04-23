@@ -13,66 +13,6 @@
 
 <div align="center">
 
-### 👑 Admin Experience
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d5c16fc4-4310-41a3-a407-ee69b95e7e1e" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
-      <br><b>Admin Dashboard</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/19f0407c-e062-4405-a96c-a42bd5d34c27" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
-      <br><b>Admin Overview</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/4e9c6546-b66e-4f99-8e32-82089fa36baa" width="200" style="border-radius: 20px; border: 3px solid #483D8B; box-shadow: 0 10px 20px rgba(72,61,139,0.2);">
-      <br><b>Analytics 1</b>
-     </td>
-   </tr>
-</table>
-
-### 👥 User Experience
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d6c17204-b97d-450c-aab3-73a02e1714c2" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Splash Screen</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/33adcb93-bd5c-4538-9aa2-62f31a24b9ee" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Authentication</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Citizen Dash</b>
-     </td>
-   </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Worker Dashboard</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/f0b8d9df-c65e-48a9-a5ec-5942d95808a2" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Analytics 2</b>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/0e88d6e1-3b7b-4280-9fc1-fb21106fdd94" width="200" style="border-radius: 20px; border: 3px solid #4CAF50; box-shadow: 0 10px 20px rgba(76,175,80,0.2);">
-      <br><b>Analytics 3</b>
-     </td>
-   </tr>
-</table>
-
-<br>
-
-*✨ Seamless experience across all user roles with powerful analytics ✨*
-
-</div>
----
-## 📱 App Gallery
-
-<div align="center">
-
 ### 📸 Complete App Experience
 
 | Splash Screen | Authentication | Admin Dashboard |
