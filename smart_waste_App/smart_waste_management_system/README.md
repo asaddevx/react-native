@@ -20,7 +20,9 @@
       <td align="center"><img src="https://github.com/user-attachments/assets/19f0407c-e062-4405-a96c-a42bd5d34c27" width="160"/><br/><sub><b>admin overview</b></sub></td> 
       <td align="center"><img src="https://github.com/user-attachments/assets/f99e54d8-efda-45b7-865d-94cda394c0ba" width="160"/><br/><sub><b>Citizen Dash</b></sub></td>
       <td align="center"><img src="https://github.com/user-attachments/assets/bff4aaf8-c97b-461f-bca1-a44ff2249215" width="160"/><br/><sub><b>Worker Dash</b></sub></td>
-    
+    analytics1:
+    <img width="719" height="1587" alt="WhatsApp Image 2026-04-16 at 4 28 01 PM" src="https://github.com/user-attachments/assets/4e9c6546-b66e-4f99-8e32-82089fa36baa" />
+
 
   </tr>
   </table>
