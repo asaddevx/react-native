@@ -13,61 +13,23 @@
 
 <div align="center">
 
-### 🎨 App Experience Gallery
+| Home | Mood Tracker | AI Chat |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/f3bb78f3-adca-4823-8fba-0c1c685d7344" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
 
-**Main Features (3x3 Grid)**
-<table style="border: none; width: 100%;">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/f3bb78f3-adca-4823-8fba-0c1c685d7344" width="200" style="border-radius: 20px; border: 3px solid #4A90E2; box-shadow: 0 10px 20px rgba(74,144,226,0.2);">
-      <br><b>🏠 Home Screen</b>
-      <br><sub>Dashboard overview</sub>
-     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="200" style="border-radius: 20px; border: 3px solid #50E3C2; box-shadow: 0 10px 20px rgba(80,227,194,0.2);">
-      <br><b>😊 Mood Tracker</b>
-      <br><sub>Emotional wellness</sub>
-     </td>
-    <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="200" style="border-radius: 20px; border: 3px solid #F5A623; box-shadow: 0 10px 20px rgba(245,166,35,0.2);">
-      <br><b>🤖 AI Assistant</b>
-      <br><sub>Smart conversations</sub>
-     </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/d3f6ee33-094b-45aa-b1b8-532d0192a3f9" width="200" style="border-radius: 20px; border: 3px solid #7ED321; box-shadow: 0 10px 20px rgba(126,211,33,0.2);">
-      <br><b>📚 Resources Hub</b>
-      <br><sub>Learning materials</sub>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/ec7fc7f3-5adb-4255-81ef-bd96e1108c90" width="200" style="border-radius: 20px; border: 3px solid #D0029B; box-shadow: 0 10px 20px rgba(208,2,155,0.2);">
-      <br><b>📝 Journal Entry</b>
-      <br><sub>Personal reflections</sub>
-     </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/49709643-0a5c-4671-8bde-fcb09f7add08" width="200" style="border-radius: 20px; border: 3px solid #FF6B6B; box-shadow: 0 10px 20px rgba(255,107,107,0.2);">
-      <br><b>👥 Community</b>
-      <br><sub>Connect & share</sub>
-     </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <img src="https://github.com/user-attachments/assets/cda5e3bf-8e8e-442f-b632-86dc1ed5375e" width="200" style="border-radius: 20px; border: 3px solid #9B59B6; box-shadow: 0 10px 20px rgba(155,89,182,0.2);">
-      <br><b>👤 Profile Management</b>
-      <br><sub>Personal settings & preferences</sub>
-     </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center">
-      <br>
-      <sub>✨ Every feature designed for your mental wellness journey ✨</sub>
-     </td>
-  </tr>
-</table>
+| Resources | Journal | Community |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d3f6ee33-094b-45aa-b1b8-532d0192a3f9" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/ec7fc7f3-5adb-4255-81ef-bd96e1108c90" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/49709643-0a5c-4671-8bde-fcb09f7add08" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+
+| Profile |
+|:---:|
+| <img src="https://github.com/user-attachments/assets/cda5e3bf-8e8e-442f-b632-86dc1ed5375e" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+
+<br>
+
+*✨ Your complete wellness companion ✨*
 
 </div>
-    
 ---
 
 ## 🚀 Key Features
