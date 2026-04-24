@@ -64,7 +64,9 @@
       <sub>✨ Every feature designed for your mental wellness journey ✨</sub>
      </td>
   </tr>
-  
+  </table>
+
+</div>
     
 ---
 
