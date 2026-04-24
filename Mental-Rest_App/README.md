@@ -51,7 +51,13 @@
       <br><sub>Connect & share</sub>
      </td>
   </tr>
-  
+   <tr>
+    <td align="center" colspan="3">
+      <img src="https://github.com/user-attachments/assets/cda5e3bf-8e8e-442f-b632-86dc1ed5375e" width="200" style="border-radius: 20px; border: 3px solid #9B59B6; box-shadow: 0 10px 20px rgba(155,89,182,0.2);">
+      <br><b>👤 Profile Management</b>
+      <br><sub>Personal settings & preferences</sub>
+     </td>
+     
     
 ---
 
