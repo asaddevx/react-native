@@ -15,6 +15,11 @@
 
 ### 🎨 App Experience Gallery
 
+**Main Features (3x3 Grid)**
+<table style="border: none; width: 100%;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://github.com/user-attachments/assets/f3bb78f3-adca-4823-8fba-0c1c685d7344" width="200" style="border-radius: 20px; border: 3px solid #4A90E2; box-shadow: 0 10px 20px rgba(74,144,226,0.2);">
 ---
 
 ## 🚀 Key Features
