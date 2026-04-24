@@ -34,6 +34,13 @@
       <br><sub>Smart conversations</sub>
      </td>
   </tr>
+   <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d3f6ee33-094b-45aa-b1b8-532d0192a3f9" width="200" style="border-radius: 20px; border: 3px solid #7ED321; box-shadow: 0 10px 20px rgba(126,211,33,0.2);">
+      <br><b>📚 Resources Hub</b>
+      <br><sub>Learning materials</sub>
+     </td>
+     
     
 ---
 
