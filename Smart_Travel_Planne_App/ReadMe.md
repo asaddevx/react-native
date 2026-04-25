@@ -42,7 +42,9 @@
   <tr>
     <td align="center" width="33%" style="padding: 15px;">
       <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 5px;">
-        
+        <img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
+      </div>
+      
 ---
 
 ## 🌟 Top-Tier Features
