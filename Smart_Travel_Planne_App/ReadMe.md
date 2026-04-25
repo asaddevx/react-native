@@ -62,7 +62,17 @@
       <br><sub style="color: #666;">Manage your preferences</sub>
      </td>
   </tr>
-  
+  <tr>
+    <td colspan="3" align="center" style="padding-top: 20px;">
+      <br>
+      <sub>✨ Every feature designed for the modern traveler ✨</sub>
+      </br>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ## 🌟 Top-Tier Features
