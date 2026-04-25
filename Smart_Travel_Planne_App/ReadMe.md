@@ -31,6 +31,9 @@
       <br><b style="font-size: 16px;">🏠 Home</b>
       <br><sub style="color: #666;">Personalized dashboard</sub>
      </td>
+     <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 5px;">
+      
     
 ---
 
