@@ -35,7 +35,10 @@
       <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 5px;">
       <img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
       </div>
-      
+      <br><b style="font-size: 16px;">🔍 Search</b>
+      <br><sub style="color: #666;">Discover destinations</sub>
+     </td>
+     
     
 ---
 
