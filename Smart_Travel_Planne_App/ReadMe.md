@@ -12,64 +12,20 @@
 ## 📱 Experience the App
 
 <div align="center">
-  
-  ### 🚀 Your Travel Journey at a Glance
 
-<table style="border: none; width: 100%;">
-  <tr>
-    <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 20px; padding: 5px;">
-        <img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-      </div>
-      <br><b style="font-size: 16px;">🔐 Login</b>
-      <br><sub style="color: #666;">Secure access to your account</sub>
-     </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 20px; padding: 5px;">
-        <img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-        </div>
-      <br><b style="font-size: 16px;">🏠 Home</b>
-      <br><sub style="color: #666;">Personalized dashboard</sub>
-     </td>
-     <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 20px; padding: 5px;">
-      <img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-      </div>
-      <br><b style="font-size: 16px;">🔍 Search</b>
-      <br><sub style="color: #666;">Discover destinations</sub>
-     </td>
-     </tr>
-  <tr>
-    <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 5px;">
-        <img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-      </div>
-      <br><b style="font-size: 16px;">✈️ Trips</b>
-      <br><sub style="color: #666;">Plan your adventures</sub>
-     </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 20px; padding: 5px;">
-         <img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-      </div>
-      <br><b style="font-size: 16px;">🤖 AI Chat</b>
-      <br><sub style="color: #666;">Smart travel assistant</sub>
-     </td>
-    <td align="center" width="33%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); border-radius: 20px; padding: 5px;">
-        <img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="200" style="border-radius: 18px; display: block; margin: 0 auto;">
-      </div>
-      <br><b style="font-size: 16px;">👤 Profile</b>
-      <br><sub style="color: #666;">Manage your preferences</sub>
-     </td>
-  </tr>
-  <tr>
-    <td colspan="3" align="center" style="padding-top: 20px;">
-      <br>
-      <sub>✨ Every feature designed for the modern traveler ✨</sub>
-      </br>
-    </td>
-  </tr>
-</table>
+| Login | Home | Search |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d19dc026-4b7b-4170-b755-802afd24fa9e" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/1df9e3b5-b9ce-45d2-bd27-ca88d00e24fb" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/c1fbf638-f9ca-40a5-87fd-216098e55008" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+| **Secure Authentication** | **Dashboard Overview** | **Find Destinations** |
+
+| Trips | AI Chat | Profile |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/f9126893-c47a-4183-84df-89ece03c1944" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/ed1c90f5-4a4a-4121-a985-6aa90dafa35a" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/4efb410f-1f30-4851-a318-904fa49d72b8" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+| **Plan Your Journey** | **Smart Assistant** | **Your Account** |
+
+<br>
+
+*✨ Your ultimate travel companion for unforgettable adventures ✨*
 
 </div>
 
