@@ -38,8 +38,11 @@
       <br><b style="font-size: 16px;">🔍 Search</b>
       <br><sub style="color: #666;">Discover destinations</sub>
      </td>
-     
-    
+     </tr>
+  <tr>
+    <td align="center" width="33%" style="padding: 15px;">
+      <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 20px; padding: 5px;">
+        
 ---
 
 ## 🌟 Top-Tier Features
