@@ -14,6 +14,8 @@
 Millions of people struggle silently with their mental health every day. The barriers are real:
 
 - 😰 **Stigma & Judgment** — Fear of being labeled "weak" prevents people from seeking help
+- 💸 **Therapy is Expensive** — Professional sessions cost $100–$250 per hour, out of reach for most
+- 📱 **Fragmented Solutions** — Meditation apps, journaling tools, and mood trackers exist in isolation
 
 ---
 ## 📸 App Preview
