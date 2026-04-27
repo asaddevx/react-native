@@ -16,6 +16,8 @@ Millions of people struggle silently with their mental health every day. The bar
 - 😰 **Stigma & Judgment** — Fear of being labeled "weak" prevents people from seeking help
 - 💸 **Therapy is Expensive** — Professional sessions cost $100–$250 per hour, out of reach for most
 - 📱 **Fragmented Solutions** — Meditation apps, journaling tools, and mood trackers exist in isolation
+- ⏰ **No 24/7 Support** — Mental health crises don't follow business hours
+- 🔐 **Privacy Concerns** — People fear their most vulnerable thoughts being exposed or sold
 
 ---
 ## 📸 App Preview
