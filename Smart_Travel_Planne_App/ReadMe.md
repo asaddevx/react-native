@@ -28,6 +28,8 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 
 | Problem | Our Solution |
 |:--------|:-------------|
+| **15+ Browser Tabs** | **Unified Booking Engine** — Search and book Hotels, Flights, and Cars in one place. |
+| **Budget Blowout** | **Integrated Digital Wallet** — Multi-currency (USD/PKR) balance tracking with real-time spending alerts. |
 
 ---
 
