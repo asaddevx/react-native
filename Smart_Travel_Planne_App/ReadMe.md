@@ -11,6 +11,10 @@
 
 ## 🎯 The Problem We Saw
 
+Planning a trip is often more stressful than the job you're trying to escape. Travelers face a chaotic maze of friction points:
+
+- ⏱️ **Analysis Paralysis** — Juggling 15+ browser tabs for flights, hotels, car rentals, and things to do is overwhelming and time-consuming.
+
 ---
 
 ## 📱 Experience the App
