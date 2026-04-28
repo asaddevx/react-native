@@ -34,6 +34,8 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 | **Fear of the Unknown** | **Live Weather & Smart Library** — Real-time climate data + cultural guides before you land. |
 | **Payment Insecurity** | **Biometric Security** — Fingerprint/FaceID protects your wallet and travel data. |
 
+### 🧠 What Makes Smart Travel Planner Different?
+
 ---
 
 ## 📱 Experience the App
