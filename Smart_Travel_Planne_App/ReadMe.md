@@ -19,6 +19,10 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 - 🗺️ **The "Unknown"** — Arriving in a new city with no sense of direction, weather, or local customs is intimidating.
 - 🔐 **Security Risks** — Entering payment details into multiple, unvetted booking sites is a gamble.
 
+> *The result?* Hours lost, money wasted, and a feeling of dread before the vacation even begins.
+
+---
+
 ---
 
 ## 📱 Experience the App
