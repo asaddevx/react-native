@@ -36,6 +36,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 | **Invisible Costs** | **Admin Analytics Dashboard** — See collection efficiency, worker performance, and system health at a glance. |
 | **Siloed Communication** | **Tri-Role Ecosystem** — Citizen, Worker, and Admin portals with real-time task lifecycle tracking (Pending → In-Progress → Completed). |
 
+### 🧠 What Makes SWMS Different?
+
 ---
 
 ## 📱 App Gallery
