@@ -13,6 +13,9 @@
 
 Our cities are drowning in waste, and the systems meant to manage it are failing. The daily reality for municipalities and residents is a collection of nightmares:
 
+- 🏙️ **Overflowing Bins, Silent Systems** — Bins sit full for days because there's no real-time monitoring. Citizens suffer the stench and pests.
+
+
 ---
 
 ## 📱 App Gallery
