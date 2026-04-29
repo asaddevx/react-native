@@ -32,6 +32,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 |:--------|:-------------|
 | **Overflowing, Silent Bins** | **Live Bin Mapping** — Interactive maps with color-coded fill levels (Green → Red) for real-time monitoring. |
 | **Fuel-Wasting Routes** | **Dynamic Route Optimization** — Automated pathfinding directs workers *only* to bins that are truly full. |
+| **Fake Reports, No Proof** | **Photo-Proof Reporting** — Citizens attach photos to reports. Workers must upload completion photos. |
+| **Invisible Costs** | **Admin Analytics Dashboard** — See collection efficiency, worker performance, and system health at a glance. |
 
 ---
 
