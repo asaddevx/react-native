@@ -41,7 +41,7 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 - **Offline-First, No Excuses** — Workers in dead zones can log collections offline. Data syncs automatically when they're back online. No more "no internet" delays.
 - **Truth & Verification** — The QR-based verification system at the bin site eliminates false claims. If a worker didn't visit, they can't complete the task.
 - **From Reactive to Predictive** — Historical fill-level data helps admins predict which bins will fill fastest, enabling pre-emptive dispatching.
-
+- **Citizen as Sensor** — Every citizen's overflow report with photo proof becomes a live data point, turning the entire city into a smart sensor network.
 
 ---
 
