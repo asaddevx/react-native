@@ -11,6 +11,8 @@
 
 ## 🎯 The Problem We Saw
 
+Our cities are drowning in waste, and the systems meant to manage it are failing. The daily reality for municipalities and residents is a collection of nightmares:
+
 ---
 
 ## 📱 App Gallery
