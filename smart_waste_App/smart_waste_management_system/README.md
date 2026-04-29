@@ -23,6 +23,10 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 
 ---
 
+## 💡 The Solution We Built
+
+---
+
 ## 📱 App Gallery
 
 <div align="center">
