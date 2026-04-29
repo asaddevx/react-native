@@ -19,6 +19,8 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 - 🧾 **Invisible Costs** — Municipalities have zero data on collection efficiency, making it impossible to optimize budgets or worker allocation.
 - 📱 **Fragmented Communication** — Citizens, drivers, and admins operate in silos. An overflow report gets lost in a WhatsApp group, and no one takes ownership.
 
+> *The result?* A dirty, unhealthy city, wasted taxpayer money, and frustrated citizens who feel unheard.
+
 ---
 
 ## 📱 App Gallery
