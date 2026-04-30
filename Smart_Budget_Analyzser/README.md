@@ -20,6 +20,9 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 > *The result?* Financial stress, missed savings goals, and a feeling of being perpetually behind.
 
 ---
+## 💡 The Solution We Built
+
+---
 ### �� Design Philosophy
 - **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
 - **User Experience**: Touch-friendly, responsive design with smooth animations
