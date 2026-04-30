@@ -28,6 +28,8 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 |:--------|:-------------|
 | **Data Overload** | **AI-Powered Categorization** — Gemini AI automatically categorizes transactions (Groceries, Dining, Transport, etc.). |
 | **Unexpected Bills** | **Predictive Spending Alerts** — Get notified *before* a subscription renews or a bill is due. |
+| **Manual Categorization** | **Fully Automated Pipeline** — Import bank statements (PDF/CSV) → AI tags → Instant dashboard. |
+
 
 ---
 ### �� Design Philosophy
