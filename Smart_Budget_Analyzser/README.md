@@ -34,6 +34,8 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 
 ### 🧠 What Makes Smart Budget Analyzer Different?
 
+- **AI That Understands Context** — A transaction at "Target" isn't always "Shopping." Gemini AI learns your patterns (e.g., Target groceries vs. Target clothes).
+
 
 ---
 ### �� Design Philosophy
