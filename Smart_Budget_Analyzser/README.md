@@ -17,6 +17,7 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 - 📉 **No Predictive Power** — Most apps tell you *after* you've overspent. No one warns you *before*.
 - 🔐 **Privacy Fears** — Uploading bank credentials to third-party apps feels like handing over your financial soul.
 
+> *The result?* Financial stress, missed savings goals, and a feeling of being perpetually behind.
 
 ---
 ### �� Design Philosophy
