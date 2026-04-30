@@ -9,6 +9,8 @@
 
 ## 🎯 The Problem We Saw
 
+Managing personal finances is a source of anxiety for millions. The obstacles are everywhere:
+
 ---
 ### �� Design Philosophy
 - **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
