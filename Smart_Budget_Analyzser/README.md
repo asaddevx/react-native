@@ -11,6 +11,8 @@
 
 Managing personal finances is a source of anxiety for millions. The obstacles are everywhere:
 
+- 📊 **Data Overload, No Insight** — Bank statements show *what* you spent, but not *why* or *how to fix it*.
+
 ---
 ### �� Design Philosophy
 - **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
