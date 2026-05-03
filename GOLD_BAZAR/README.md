@@ -85,3 +85,10 @@ graph LR
 - **Live Market Terminal**: Real-time **OS (Ounce Spot) Price** board for Gold and Silver with custom cloud-caching and multiple provider fallbacks.
 - **CORS-proof IPC Fetching**: Secure market data fetching without exposing API keys.
 - **Admin Controls**: User management, session revocation, and system analytics.
+
+### 📊 Market Intelligence & Security
+- **Live Market Terminal**: Real-time **OS (Ounce Spot) Price** board for Gold and Silver, utilizing custom cloud-caching to avoid API rate limits.
+- **Enterprise Security**: Strict **Device Fingerprinting** (limited to 2 devices per license) and remote session revocation via a Firebase admin portal.
+
+---
+
