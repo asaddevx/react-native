@@ -12,4 +12,10 @@
 
 ---
 
+## 🎯 The Problem We Saw
+
+The gold testing industry is trapped by a "Legacy Desk" paradigm, creating critical risks and inefficiencies:
+
+- 🪑 **Tethered to a Terminal** — Jewelers are paralyzed by decade-old, offline desktop software. High-stakes testing and live pricing can't be performed away from the front counter.
+- 🔄 **No Sync, No Freedom** — Data lives on one machine. If a jeweler tests gold in the field or at a client's location, that record never makes it back to the main office system.
 
