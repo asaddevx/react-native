@@ -192,3 +192,23 @@ graph LR
 A perfect blend of **physics education**, **cross-platform architecture**, and **enterprise-grade security**.
 
 ---
+
+## 📊 Project Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=asaddevx&repo=react-native&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20" alt="Gold Bazar Project Stats" />
+
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=asaddevx&repo=react-native&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a192f&border_radius=20&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native_Mobile-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native Mobile" />
+  <img src="https://img.shields.io/badge/Electron_Desktop-2B2E3A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron Desktop" />
+  <img src="https://img.shields.io/badge/Bi--Directional_Sync-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Bi-Directional Sync" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Physics_Engine-FF6F00?style=for-the-badge" alt="Physics Engine" />
+  <img src="https://img.shields.io/badge/Device_Fingerprinting-00BFFF?style=for-the-badge" alt="Device Fingerprinting" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+---
