@@ -144,3 +144,28 @@ graph LR
 - Luxurious dark + gold theme
 - Responsive design (Mobile + Desktop)
 - Custom modals & profile management
+
+---
+
+## 🖥️ Electron Desktop App (Detailed)
+- Live Market Board (Gold & Silver)
+- Multiple providers + fallback
+- CORS-proof IPC fetching
+- Local caching & refresh limits
+- Thermal printing & PDF export
+- Role-based authentication
+- Admin user management dashboard
+
+---
+
+## 📱 React Native Mobile App (Detailed)
+- Lab-grade gold testing
+- Multiple report formats
+- Traditional units supported
+- Secure session model with device fingerprinting
+- PDF/Print/Share flows
+- Offline-first queue for field operations
+- Mobile thermal printing support
+
+---
+
