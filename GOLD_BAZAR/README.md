@@ -168,4 +168,27 @@ graph LR
 - Mobile thermal printing support
 
 ---
+## 🛠️ Technical Stack
 
+| Layer | Technology |
+| --- | --- |
+| **Mobile Client** | React Native (Expo) |
+| **Desktop Client** | Electron.js + React |
+| **Backend / Sync Engine** | Firebase Auth & Firestore |
+| **API Automation** | GitHub Actions for Backend Cron Jobs |
+| **Styling** | Premium Dark & Gold UI (Tailwind CSS) |
+
+---
+
+## ✨ Gold Bazar Key Highlights
+- **Unified Cross-Platform Ecosystem** — React Native Mobile + Electron Desktop with bi-directional Firebase sync
+- **Lab-Grade Physics Engine** — Archimedes' Principle implementation for precise gold purity determination
+- **Traditional Unit Conversion** — Tola, Masha, Ratti, Grams, Ounces with complex "borrowing" math
+- **Live Market Intelligence** — Real-time OS (Ounce Spot) prices for Gold & Silver
+- **Device Fingerprinting Security** — Max 2 devices per license, remote revocation
+- **Offline-First Mobile** — Full functionality without internet; auto-sync when back online
+- **Premium Dark & Gold UI** — Luxurious, professional interface on both platforms
+
+A perfect blend of **physics education**, **cross-platform architecture**, and **enterprise-grade security**.
+
+---
