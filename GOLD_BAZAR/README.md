@@ -93,76 +93,65 @@ graph LR
 ---
 ## 📸 App Gallery
 
-### 📱 Mobile Experience (React Native)
+### 📱 Mobile App (React Native)
 
 <p align="center">
   <strong>Home & Authentication</strong>
 </p>
 <p align="center">
-  <img src="YOUR_MOBILE_HOME_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Home Screen" />
-  <img src="YOUR_MOBILE_LOGIN_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Login" />
-  <img src="YOUR_MOBILE_REGISTER_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Register" />
+  <img src="https://github.com/user-attachments/assets/ba873db8-6a8e-4c4b-9ed6-254dd8729a51" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Home Screen" />
+  <img src="https://github.com/user-attachments/assets/13af3d9d-0dfb-419c-8840-71e872714180" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Gold Screen" />
+  <img src="https://github.com/user-attachments/assets/5a3c3437-3ed6-4d66-9450-0670b188094a" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Gold Calculation" />
 </p>
 
 <p align="center">
-  <strong>Gold Testing & Reports</strong>
+  <strong>Profile & Billing</strong>
 </p>
 <p align="center">
-  <img src="YOUR_MOBILE_GOLD_TEST_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Gold Testing" />
-  <img src="YOUR_MOBILE_RESULTS_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Test Results" />
-  <img src="YOUR_MOBILE_REPORT_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="PDF Report" />
-</p>
-
-<p align="center">
-  <strong>Profile & History</strong>
-</p>
-<p align="center">
-  <img src="YOUR_MOBILE_PROFILE_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Mobile Profile" />
-  <img src="YOUR_MOBILE_HISTORY_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Test History" />
-  <img src="YOUR_MOBILE_SETTINGS_IMAGE_URL" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Settings" />
+  <img src="https://github.com/user-attachments/assets/710cb1bd-4afd-4219-802a-e5900e00c06c" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Profile Screen" />
+  <img src="https://github.com/user-attachments/assets/7c49d35b-387f-4880-8ae6-eed98edca7a1" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);" alt="Billing Screen" />
 </p>
 
 <br>
 
-### 🖥️ Desktop Experience (Electron)
+### 🖥️ Desktop App (Electron)
 
 <p align="center">
   <strong>Dashboard & User Management</strong>
 </p>
 <p align="center">
-  <img src="YOUR_DESKTOP_DASHBOARD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Desktop Dashboard" />
-  <img src="YOUR_DESKTOP_USER_DASHBOARD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="User Dashboard" />
+  <img src="https://github.com/user-attachments/assets/7bc96c64-3b6f-4af0-927d-cb8971f987a6" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Main Dashboard" />
+  <img src="https://github.com/user-attachments/assets/edd9c606-8933-4434-8edb-3c78afb0a12e" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="User Dashboard" />
 </p>
 
 <p align="center">
-  <strong>Profile (Light & Dark Mode)</strong>
+  <strong>User Profile (Light & Dark Mode)</strong>
 </p>
 <p align="center">
-  <img src="YOUR_DESKTOP_PROFILE_LIGHT_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Profile Light Mode" />
-  <img src="YOUR_DESKTOP_PROFILE_DARK_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Profile Dark Mode" />
+  <img src="https://github.com/user-attachments/assets/d19ac4d8-c515-4b41-80cf-2bb9d7dbc608" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Profile Dark Mode" />
 </p>
 
 <p align="center">
   <strong>Gold Testing Engine</strong>
 </p>
 <p align="center">
-  <img src="YOUR_DESKTOP_PROFESSIONAL_METHOD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Professional Method" />
-  <img src="YOUR_DESKTOP_MARKET_METHOD_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Market Method" />
+  <img src="https://github.com/user-attachments/assets/53d4194d-6a0d-4b04-a7ea-48069ec015d9" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Professional Method" />
+  <img src="https://github.com/user-attachments/assets/b3598c43-ac92-4e14-8960-d77477961db2" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Market Method" />
 </p>
 
 <p align="center">
-  <strong>Reports & History</strong>
+  <strong>Reports & Billing History</strong>
 </p>
 <p align="center">
-  <img src="YOUR_DESKTOP_GENERATE_REPORT_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Generate Report" />
-  <img src="YOUR_DESKTOP_BILL_HISTORY_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Bill History" />
+  <img src="https://github.com/user-attachments/assets/f3ad2b9d-f87b-4800-8fe7-97c68192d5de" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Generate Report" />
+  <img src="https://github.com/user-attachments/assets/23784dd5-09cd-4e32-b793-26be45a54b3d" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Bill History" />
 </p>
 
 <p align="center">
   <strong>Settings</strong>
 </p>
 <p align="center">
-  <img src="YOUR_DESKTOP_SETTINGS_IMAGE_URL" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Settings" />
+  <img src="https://github.com/user-attachments/assets/2b016a58-b4ad-47b7-9595-a7fcb7a6000d" width="400" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1); margin: 5px;" alt="Settings Panel" />
 </p>
 
 <br>
