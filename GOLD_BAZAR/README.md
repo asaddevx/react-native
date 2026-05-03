@@ -71,3 +71,7 @@ graph LR
 - **Offline-First Queue** — Mobile app queues operations when offline; syncs automatically when connection returns.
 - **Device Fingerprinting** — Each license allows max 2 active devices. Remotely revoke any device from the admin portal.
 
+### 🧪 Lab-Grade Physics Engine (Both Platforms)
+- **Precision Algorithms**: Implementation of Archimedes' Principle tuned to localized density standards (19.29g/cm³) for exact Karat and purity determination.
+- **Localized Math**: Custom logic to perfectly convert decimal grams into **Tola/Masha/Ratti** formats, including complex "borrowing" math for negative impurity (Kaat) scenarios.
+
