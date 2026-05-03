@@ -91,4 +91,25 @@ graph LR
 - **Enterprise Security**: Strict **Device Fingerprinting** (limited to 2 devices per license) and remote session revocation via a Firebase admin portal.
 
 ---
+---
 
+## 📸 Screenshots
+
+### Home Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ba873db8-6a8e-4c4b-9ed6-254dd8729a51" width="250" />
+</p>
+
+### Gold Screen
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/13af3d9d-0dfb-419c-8840-71e872714180" width="250" />
+  <img src="https://github.com/user-attachments/assets/5a3c3437-3ed6-4d66-9450-0670b188094a" width="250" />
+</p>
+
+### Profile & Billing
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/710cb1bd-4afd-4219-802a-e5900e00c06c" width="250" />
+  <img src="https://github.com/user-attachments/assets/7c49d35b-387f-4880-8ae6-eed98edca7a1" width="250" />
+</p>
+
+---
