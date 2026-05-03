@@ -44,3 +44,15 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 - **Enterprise-Grade Security Across Devices** — Strict **Device Fingerprinting** (max 2 devices per license) and remote session revocation. If a phone is lost, kill its access from the desktop.
 - **Localized Math for Global Markets** — Custom logic flawlessly converts decimal grams into **Tola/Masha/Ratti** formats, respecting traditional South Asian market standards.
 
+---
+
+## 🔄 The Unified Ecosystem: Mobile + Desktop + Sync
+
+```mermaid
+graph LR
+    A[React Native Mobile App<br/>iOS/Android] <-->|Firebase Realtime Sync| C[Cloud Backend<br/>Firestore + Auth]
+    B[Electron Desktop App<br/>Windows/Mac/Linux] <-->|Firebase Realtime Sync| C
+    C -->|Bi-Directional| A
+    C -->|Bi-Directional| B
+```
+
