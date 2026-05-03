@@ -37,3 +37,10 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 | **Two Worlds, One Choice** | **Unified Ecosystem** — A powerful **Electron Desktop terminal** for front-counter operations + a **full-featured Mobile app** for field work. Same data, same features. |
 | **Stale Market Data** | **Live Market Terminal (Electron)** — Real-time OS (Ounce Spot) Price board for Gold & Silver with custom cloud-caching to avoid API rate limits. |
 
+### 🧠 What Makes GoldDesk Different?
+
+- **One Ecosystem, Two Clients, Zero Compromise** — The mobile app isn't a "lite" version. It runs the same physics engine, generates the same reports, and syncs seamlessly with the desktop.
+- **Physics Over Guesswork** — The app doesn't just calculate; it educates. It implements Archimedes' Principle to a **lab-grade standard**, removing human error from purity determination.
+- **Enterprise-Grade Security Across Devices** — Strict **Device Fingerprinting** (max 2 devices per license) and remote session revocation. If a phone is lost, kill its access from the desktop.
+- **Localized Math for Global Markets** — Custom logic flawlessly converts decimal grams into **Tola/Masha/Ratti** formats, respecting traditional South Asian market standards.
+
