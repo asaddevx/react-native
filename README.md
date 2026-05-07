@@ -91,7 +91,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 ## 📫 Connect with the Architect
 
 <div align="center">
-  <p><strong>SYSTEMS_STATUS: ReactNative_System_OPERATIONAL</strong></p>
+  <p><strong>SYSTEMS_STATUS: ReactNative_System_OPERATIONAL 🟢</strong></p>
   <p>Let's build something disruptive. 🚀</p>
 
   <a href="https://asad-lime-six.vercel.app/">
