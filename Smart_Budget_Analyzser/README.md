@@ -459,13 +459,7 @@ feedback: {
 ---
 
 ## 📅 Development Timeline
-
-### 🚀 Phase 1: Foundation *(Months 1-3)*
-- **Sprint 1-2**: User authentication and profile management
-- **Sprint 3-4**: Transaction management system
-- **Sprint 5-6**: Budget creation and tracking
-- **Sprint 7-8**: Data visualization and dashboard
-- **Sprint 9-10**: Export functionality and security
+removing these 
 
 ### 🧠 Phase 2: AI Integration *(Months 4-5)*
 - **Week 1-2**: TensorFlow.js setup and model training
