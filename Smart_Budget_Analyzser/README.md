@@ -422,13 +422,6 @@ feedback: {
 - **Animations**: Smooth 400ms slide transitions
 - **Dark Mode**: Complete theme support
 
-### 📱 Screen Flow
-1. **Loading Screen** → Attractive splash with tips
-2. **Home Screen** → Carousel showcase with CTA buttons
-3. **Authentication** → Login/Signup with social options
-4. **Dashboard** → Main financial overview
-5. **Feature Screens** → Transactions, Budgets, Analytics
-
 ---
 
 ## ��️ Technical Stack
