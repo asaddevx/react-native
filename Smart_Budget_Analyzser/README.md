@@ -74,6 +74,11 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | <img src="https://github.com/user-attachments/assets/dab89ea4-f6a2-4ba7-8cfa-7dfdd638a6b0" width="180"/> | <img src="https://github.com/user-attachments/assets/73ad9f2c-87e8-4aee-a7e0-dc7a23452fb4" width="180"/> | <img src="https://github.com/user-attachments/assets/329ff5b4-55f2-49e2-ae25-1e8a395c761d" width="180"/> | <img src="https://github.com/user-attachments/assets/d601679b-36fa-4ee9-98f8-31bcddf5328e" width="180"/> |
 
 ---
+### 🏠 Dashboard & Transactions
+
+| Home Screen | Monthly Overview | Month Detail | Add Transaction |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/46db9b80-37af-4ce9-95af-3cb3dc9bfaca" width="180"/> | <img src="https://github.com/user-attachments/assets/65ab5575-affc-4c0f-b7b1-953248047c95" width="180"/> | <img src="https://github.com/user-attachments/assets/bcd0b8c2-4264-45b8-a854-61ea2fc44037" width="180"/> | <img src="https://github.com/user-attachments/assets/33e1df12-b407-4394-ab7b-729a7c8bfb0e" width="180"/> |
 
 ---
 
@@ -425,11 +430,7 @@ A practical and visually appealing finance management app that demonstrates stro
 
 
 
-### 🏠 Dashboard & Transactions
 
-| Home Screen | Monthly Overview | Month Detail | Add Transaction |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/46db9b80-37af-4ce9-95af-3cb3dc9bfaca" width="180"/> | <img src="https://github.com/user-attachments/assets/65ab5575-affc-4c0f-b7b1-953248047c95" width="180"/> | <img src="https://github.com/user-attachments/assets/bcd0b8c2-4264-45b8-a854-61ea2fc44037" width="180"/> | <img src="https://github.com/user-attachments/assets/33e1df12-b407-4394-ab7b-729a7c8bfb0e" width="180"/> |
 
 | Transaction History |
 |:---:|
