@@ -95,7 +95,10 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | <img src="https://github.com/user-attachments/assets/d859805f-83c1-455a-8723-1064b5dde82a" width="180"/> | <img src="https://github.com/user-attachments/assets/8418e482-96f5-42a6-83d7-d10c5ffae26d" width="180"/> | <img src="https://github.com/user-attachments/assets/41691123-709a-4e57-8652-ddf184812d49" width="180"/> | <img src="https://github.com/user-attachments/assets/66ecb9c4-6a33-481e-afd4-1d20b9472666" width="180"/> |
 
 ---
+
 ### 🧮 Tools (Calculators)
+
+#### 💰 Loan & Tax Calculators
 
 | All Calculators | Currency Converter | Loan/EMI Calculator | Loan/EMI Result |
 |:---:|:---:|:---:|:---:|
@@ -104,6 +107,31 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | Tax Calculator | Tax Result | Tax Slabs |
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
+
+---
+
+#### 📈 Investment Calculator
+
+| Investment Calculator | Investment Result | Year‑by‑Year Breakdown |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/5475d0e8-73c7-4ee2-9d76-39bde4296ce4" width="180"/> | <img src="https://github.com/user-attachments/assets/fc33c0af-b9ef-4ab3-b7f7-da9f184e79d4" width="180"/> | <img src="https://github.com/user-attachments/assets/b403a411-3aac-4924-8a7a-2cd5464c2277" width="180"/> |
+
+---
+
+#### 📊 Budget Planner
+
+| Budget Planner | Budget Breakdown | Compare with Actual Spendings | Suggested Category Breakdown |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/ef4e1a20-8be6-4676-acef-304ef0b33599" width="180"/> | <img src="https://github.com/user-attachments/assets/d74d1002-b078-468e-97fd-3312c397bea6" width="180"/> | <img src="https://github.com/user-attachments/assets/19990b1e-e1a8-482e-9f46-f2a45428b460" width="180"/> | <img src="https://github.com/user-attachments/assets/d18271e0-1624-4ff0-9e60-f9269d430654" width="180"/> |
+
+---
+
+#### 🎯 Savings Goals Calculator
+
+| Savings Goals Calculator | Enter Savings Details | Result for Selected Saving | Year Progress |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/2f8d64dc-18b0-424c-89d3-0f445b1a49ab" width="180"/> | <img src="https://github.com/user-attachments/assets/c76a8a08-fe91-4d2c-aa39-0b496c27a6c4" width="180"/> | <img src="https://github.com/user-attachments/assets/30c142f2-ecca-4cd9-96d0-e61d47fb8898" width="180"/> | <img src="https://github.com/user-attachments/assets/e6c7bfd3-5d0b-418d-9880-eebdf6d2904d" width="180"/> |
+
 
 ---
 ### 👤 Profile & Settings
