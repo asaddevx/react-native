@@ -67,119 +67,6 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 
 ### 📱 App Screenshots  
 
-<table>
-  <!-- Row 1: Core Screens -->
-  <tr>
-    <td align="center"><b>Loading Screen</b></td>
-    <td align="center"><b>Home Screen</b></td>
-    <td align="center"><b>Authentication</b></td>
-    <td align="center"><b>Menu Bar</b></td>
-    <td align="center"><b>Login Screen</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/d97f498e-ca15-4290-8cd3-847790b0ac07" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/b65f91de-e441-4af7-bddb-5cccfa2e41a5" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e35afce3-421c-4a0a-9652-70d6594bc5df" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a3793e36-b693-4c4e-8fe4-40cdaec43fea" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/12b6da68-b7a6-4347-82c0-cc830858570c" width="200"></td>
-  </tr>
-
-  <!-- Row 2: Auth & Dashboard -->
-  <tr>
-    <td align="center"><b>Signup Screen</b></td>
-    <td align="center"><b>Forgot Password</b></td>
-    <td align="center"><b>User Dashboard</b></td>
-    <td align="center"><b>Transactions Progress</b></td>
-    <td align="center"><b>Graphs</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/eb0d7362-9350-447b-9a01-7d16c56e6485" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/d4632ea8-3ba0-4ac4-92db-14af39f0c305" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/42a8e0f4-d3b4-435b-8bf4-45a2e0a5b94f" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/9d511023-de14-49b1-bca1-fc7013fb3873" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/0e91b825-293c-43ff-9ed2-9023dc021ac9" width="200"></td>
-  </tr>
-
-  <!-- Row 3: Transactions & Budgets -->
-  <tr>
-    <td align="center"><b>Transactions</b></td>
-    <td align="center"><b>Add Transaction</b></td>
-    <td align="center"><b>Edit Transaction</b></td>
-    <td align="center"><b>Budgets</b></td>
-    <td align="center"><b>Add Budget</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/94ce970c-5f58-4ce0-9493-502916e7e323" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/df9c2fc4-666c-4936-adad-04d09a318451" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/6737a735-29f6-48ea-a2cf-d12f1ce58665" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/8111c7da-6906-4ae8-b7e1-f79aaa139f50" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/31c57721-9234-4e54-a7da-c597b45d0593" width="200"></td>
-  </tr>
-
-  <!-- Row 4: Budget Tools -->
-  <tr>
-    <td align="center"><b>Edit Budget</b></td>
-    <td align="center"><b>Smart Budgeting</b></td>
-    <td align="center"><b>Budget Tips</b></td>
-    <td align="center"><b>Create Category</b></td>
-    <td align="center"><b>App Settings</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cf7c7ca9-c20f-40d5-a6e5-ee6b0a8ca5a0" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/34359813-664f-4da4-a435-16f39850aba6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/43052369-9c5d-47e6-b591-613c1984060d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/55d86cbe-ef02-4d87-8c2c-f8114dab9bf6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e35c3268-fc6a-41ef-ba55-4760cda80317" width="200"></td>
-  </tr>
-
-  <!-- Row 5: Analytics -->
-  <tr>
-    <td align="center"><b>Charts</b></td>
-    <td align="center"><b>Monthly Spending</b></td>
-    <td align="center"><b>AI Insights</b></td>
-    <td align="center"><b>AI Predictions</b></td>
-    <td align="center"><b>AI Savings</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/c271e4bb-3103-4fed-a410-e5dd0bb3add4" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/88097e75-7a19-4a80-a456-bdf7b1892b66" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/ceda6abc-d230-4efe-bd48-4bb007baa166" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/517fad98-b305-4a1f-84dc-99d2dbad48e0" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/d2b2514b-7563-495d-91c2-4557987bc8f2" width="200"></td>
-  </tr>
-
-  <!-- Row 6: Real-time Analytics -->
-  <tr>
-    <td align="center"><b>Current Insights</b></td>
-    <td align="center"><b>Month Prediction</b></td>
-    <td align="center"><b>About</b></td>
-    <td align="center"><b>Privacy Policy</b></td>
-    <td align="center"><b>Contact</b></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/e507dd12-4ef4-44c9-b830-d06eaac0c6e6" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/91f5dfaf-0619-485d-a605-c4d71b59b30d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/30ae08aa-aae6-4d42-aa25-c2b4694b004d" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/4961d1f8-c752-4c86-865e-a4b030c4772c" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/4c3712ee-9830-482f-a171-b60b78208512" width="200"></td>
-  </tr>
-
-  <!-- Row 7: Support -->
-  <tr>
-    <td align="center"><b>Help & Support</b></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/6745ef3c-cc20-4a5c-97d8-aeb647c25365" width="200"></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
 ---
 
@@ -519,12 +406,71 @@ A practical and visually appealing finance management app that demonstrates stro
 </div>
 
 
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=23272e&height=30&section=footer" />
 </p>
 
 ---
+
+
+
+## 📱 App Screenshots
+
+### 🔐 Authentication Flow
+
+| Loading Screen | Login | Sign Up | Forgot Password |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/dab89ea4-f6a2-4ba7-8cfa-7dfdd638a6b0" width="180"/> | <img src="https://github.com/user-attachments/assets/73ad9f2c-87e8-4aee-a7e0-dc7a23452fb4" width="180"/> | <img src="https://github.com/user-attachments/assets/329ff5b4-55f2-49e2-ae25-1e8a395c761d" width="180"/> | <img src="https://github.com/user-attachments/assets/d601679b-36fa-4ee9-98f8-31bcddf5328e" width="180"/> |
+
+---
+
+### 🏠 Dashboard & Transactions
+
+| Home Screen | Monthly Overview | Month Detail | Add Transaction |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/46db9b80-37af-4ce9-95af-3cb3dc9bfaca" width="180"/> | <img src="https://github.com/user-attachments/assets/65ab5575-affc-4c0f-b7b1-953248047c95" width="180"/> | <img src="https://github.com/user-attachments/assets/bcd0b8c2-4264-45b8-a854-61ea2fc44037" width="180"/> | <img src="https://github.com/user-attachments/assets/33e1df12-b407-4394-ab7b-729a7c8bfb0e" width="180"/> |
+
+| Transaction History |
+|:---:|
+| <img src="https://github.com/user-attachments/assets/17ff8a68-f2a0-463d-a021-f31bd771b111" width="180"/> |
+
+---
+
+### 🎯 Goals & Budgets
+
+| Add New Goal | Budgets & Goals |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/c69d6b61-fb67-4f4e-8f45-844aefa88eeb" width="180"/> | <img src="https://github.com/user-attachments/assets/10bb8325-93f2-4205-9ada-878149fd15b4" width="180"/> |
+
+---
+
+### 📊 Analytics & AI Insights
+
+| Analytics Overview | Goals Progress | AI Spending Insights | AI Recommendations |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d859805f-83c1-455a-8723-1064b5dde82a" width="180"/> | <img src="https://github.com/user-attachments/assets/8418e482-96f5-42a6-83d7-d10c5ffae26d" width="180"/> | <img src="https://github.com/user-attachments/assets/41691123-709a-4e57-8652-ddf184812d49" width="180"/> | <img src="https://github.com/user-attachments/assets/66ecb9c4-6a33-481e-afd4-1d20b9472666" width="180"/> |
+
+---
+
+### 🧮 Tools (Calculators)
+
+| All Calculators | Currency Converter | Loan/EMI Calculator | Loan/EMI Result |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/4c98e1db-cb53-4c32-9244-db20eef617b0" width="180"/> | <img src="https://github.com/user-attachments/assets/dde1bbfa-655b-49fc-99c8-1ba84ebfe468" width="180"/> | <img src="https://github.com/user-attachments/assets/571b7eb9-3b7f-4577-bc5d-73ba937dccf1" width="180"/> | <img src="https://github.com/user-attachments/assets/39a23954-b9a1-4b3e-b9d3-32c2b9d54497" width="180"/> |
+
+| Tax Calculator | Tax Result | Tax Slabs |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
+
+---
+
+### 👤 Profile & Settings
+
+| Profile Settings | Preferences | Notification Settings | AI & Reminder Settings | Notifications Screen |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d5543246-4b56-4e5a-9251-adad47986b0a" width="150"/> | <img src="https://github.com/user-attachments/assets/cb422b9b-490f-4398-8685-04d584791d2e" width="150"/> | <img src="https://github.com/user-attachments/assets/f2ef80e3-567d-4467-ad3a-79db503d0d12" width="150"/> | <img src="https://github.com/user-attachments/assets/19b03567-924b-4fa9-9f83-73f0d2fab02a" width="150"/> | <img src="https://github.com/user-attachments/assets/d1f6aada-7a88-43c1-82c5-af31776a9136" width="150"/> |
+
+---
+
 
 
