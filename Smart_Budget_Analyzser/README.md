@@ -106,6 +106,13 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
 
 ---
+### 👤 Profile & Settings
+
+| Profile Settings | Preferences | Notification Settings | AI & Reminder Settings | Notifications Screen |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d5543246-4b56-4e5a-9251-adad47986b0a" width="150"/> | <img src="https://github.com/user-attachments/assets/cb422b9b-490f-4398-8685-04d584791d2e" width="150"/> | <img src="https://github.com/user-attachments/assets/f2ef80e3-567d-4467-ad3a-79db503d0d12" width="150"/> | <img src="https://github.com/user-attachments/assets/19b03567-924b-4fa9-9f83-73f0d2fab02a" width="150"/> | <img src="https://github.com/user-attachments/assets/d1f6aada-7a88-43c1-82c5-af31776a9136" width="150"/> |
+
+---
 
 ## 🏗️ Core Features Architecture
 
@@ -451,18 +458,9 @@ A practical and visually appealing finance management app that demonstrates stro
 
 
 
-## 📱 App Screenshots
 
 
 
-
-### 👤 Profile & Settings
-
-| Profile Settings | Preferences | Notification Settings | AI & Reminder Settings | Notifications Screen |
-|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/d5543246-4b56-4e5a-9251-adad47986b0a" width="150"/> | <img src="https://github.com/user-attachments/assets/cb422b9b-490f-4398-8685-04d584791d2e" width="150"/> | <img src="https://github.com/user-attachments/assets/f2ef80e3-567d-4467-ad3a-79db503d0d12" width="150"/> | <img src="https://github.com/user-attachments/assets/19b03567-924b-4fa9-9f83-73f0d2fab02a" width="150"/> | <img src="https://github.com/user-attachments/assets/d1f6aada-7a88-43c1-82c5-af31776a9136" width="150"/> |
-
----
 
 
 
