@@ -67,6 +67,13 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 
 ### 📱 App Screenshots  
 
+### 🔐 Authentication Flow
+
+| Loading Screen | Login | Sign Up | Forgot Password |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/dab89ea4-f6a2-4ba7-8cfa-7dfdd638a6b0" width="180"/> | <img src="https://github.com/user-attachments/assets/73ad9f2c-87e8-4aee-a7e0-dc7a23452fb4" width="180"/> | <img src="https://github.com/user-attachments/assets/329ff5b4-55f2-49e2-ae25-1e8a395c761d" width="180"/> | <img src="https://github.com/user-attachments/assets/d601679b-36fa-4ee9-98f8-31bcddf5328e" width="180"/> |
+
+---
 
 ---
 
@@ -416,13 +423,7 @@ A practical and visually appealing finance management app that demonstrates stro
 
 ## 📱 App Screenshots
 
-### 🔐 Authentication Flow
 
-| Loading Screen | Login | Sign Up | Forgot Password |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/dab89ea4-f6a2-4ba7-8cfa-7dfdd638a6b0" width="180"/> | <img src="https://github.com/user-attachments/assets/73ad9f2c-87e8-4aee-a7e0-dc7a23452fb4" width="180"/> | <img src="https://github.com/user-attachments/assets/329ff5b4-55f2-49e2-ae25-1e8a395c761d" width="180"/> | <img src="https://github.com/user-attachments/assets/d601679b-36fa-4ee9-98f8-31bcddf5328e" width="180"/> |
-
----
 
 ### 🏠 Dashboard & Transactions
 
