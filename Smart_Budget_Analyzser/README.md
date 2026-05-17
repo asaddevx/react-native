@@ -76,9 +76,9 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 ---
 ### 🏠 Dashboard & Transactions
 
-| Home Screen | Monthly Overview | Month Detail | Add Transaction |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/46db9b80-37af-4ce9-95af-3cb3dc9bfaca" width="180"/> | <img src="https://github.com/user-attachments/assets/65ab5575-affc-4c0f-b7b1-953248047c95" width="180"/> | <img src="https://github.com/user-attachments/assets/bcd0b8c2-4264-45b8-a854-61ea2fc44037" width="180"/> | <img src="https://github.com/user-attachments/assets/33e1df12-b407-4394-ab7b-729a7c8bfb0e" width="180"/> |
+| Home Screen | Monthly Overview | Month Detail | Add Transaction | Transaction History |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/46db9b80-37af-4ce9-95af-3cb3dc9bfaca" width="180"/> | <img src="https://github.com/user-attachments/assets/65ab5575-affc-4c0f-b7b1-953248047c95" width="180"/> | <img src="https://github.com/user-attachments/assets/bcd0b8c2-4264-45b8-a854-61ea2fc44037" width="180"/> | <img src="https://github.com/user-attachments/assets/33e1df12-b407-4394-ab7b-729a7c8bfb0e" width="180"/> |<img src="https://github.com/user-attachments/assets/17ff8a68-f2a0-463d-a021-f31bd771b111" width="180"/> |
 
 ---
 
