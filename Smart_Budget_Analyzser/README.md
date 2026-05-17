@@ -108,7 +108,6 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
 
----
 
 #### 📈 Investment Calculator
 
@@ -116,7 +115,6 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 |:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/5475d0e8-73c7-4ee2-9d76-39bde4296ce4" width="180"/> | <img src="https://github.com/user-attachments/assets/fc33c0af-b9ef-4ab3-b7f7-da9f184e79d4" width="180"/> | <img src="https://github.com/user-attachments/assets/b403a411-3aac-4924-8a7a-2cd5464c2277" width="180"/> |
 
----
 
 #### 📊 Budget Planner
 
@@ -124,7 +122,6 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/ef4e1a20-8be6-4676-acef-304ef0b33599" width="180"/> | <img src="https://github.com/user-attachments/assets/d74d1002-b078-468e-97fd-3312c397bea6" width="180"/> | <img src="https://github.com/user-attachments/assets/19990b1e-e1a8-482e-9f46-f2a45428b460" width="180"/> | <img src="https://github.com/user-attachments/assets/d18271e0-1624-4ff0-9e60-f9269d430654" width="180"/> |
 
----
 
 #### 🎯 Savings Goals Calculator
 
