@@ -88,6 +88,14 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | <img src="https://github.com/user-attachments/assets/c69d6b61-fb67-4f4e-8f45-844aefa88eeb" width="180"/> | <img src="https://github.com/user-attachments/assets/10bb8325-93f2-4205-9ada-878149fd15b4" width="180"/> |
 
 ---
+### 📊 Analytics & AI Insights
+
+| Analytics Overview | Goals Progress | AI Spending Insights | AI Recommendations |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/d859805f-83c1-455a-8723-1064b5dde82a" width="180"/> | <img src="https://github.com/user-attachments/assets/8418e482-96f5-42a6-83d7-d10c5ffae26d" width="180"/> | <img src="https://github.com/user-attachments/assets/41691123-709a-4e57-8652-ddf184812d49" width="180"/> | <img src="https://github.com/user-attachments/assets/66ecb9c4-6a33-481e-afd4-1d20b9472666" width="180"/> |
+
+---
+
 
 ## 🏗️ Core Features Architecture
 
@@ -435,21 +443,6 @@ A practical and visually appealing finance management app that demonstrates stro
 
 ## 📱 App Screenshots
 
-
-
-
-
-
-
-
-
-### 📊 Analytics & AI Insights
-
-| Analytics Overview | Goals Progress | AI Spending Insights | AI Recommendations |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/d859805f-83c1-455a-8723-1064b5dde82a" width="180"/> | <img src="https://github.com/user-attachments/assets/8418e482-96f5-42a6-83d7-d10c5ffae26d" width="180"/> | <img src="https://github.com/user-attachments/assets/41691123-709a-4e57-8652-ddf184812d49" width="180"/> | <img src="https://github.com/user-attachments/assets/66ecb9c4-6a33-481e-afd4-1d20b9472666" width="180"/> |
-
----
 
 ### 🧮 Tools (Calculators)
 
