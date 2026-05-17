@@ -1,4 +1,4 @@
-### 🚀 SmartBudgetAnalyzer v1.1 - Complete Project Scope
+### 🚀 SmartBudgetAnalyzer v1.1 - Complete Project
 
 ## �� Project Overview
 
@@ -101,6 +101,11 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 |:---:|:---:|:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/4c98e1db-cb53-4c32-9244-db20eef617b0" width="180"/> | <img src="https://github.com/user-attachments/assets/dde1bbfa-655b-49fc-99c8-1ba84ebfe468" width="180"/> | <img src="https://github.com/user-attachments/assets/571b7eb9-3b7f-4577-bc5d-73ba937dccf1" width="180"/> | <img src="https://github.com/user-attachments/assets/39a23954-b9a1-4b3e-b9d3-32c2b9d54497" width="180"/> |
 
+| Tax Calculator | Tax Result | Tax Slabs |
+|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
+
+---
 
 ## 🏗️ Core Features Architecture
 
@@ -450,12 +455,6 @@ A practical and visually appealing finance management app that demonstrates stro
 
 
 
-
-| Tax Calculator | Tax Result | Tax Slabs |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/96525011-1aec-4e2e-9cff-73e3da071af0" width="180"/> | <img src="https://github.com/user-attachments/assets/3fd3e5b8-dd5a-4a07-81ce-24e087d2b88a" width="180"/> | <img src="https://github.com/user-attachments/assets/97d14ecd-2054-42d7-8cc3-1f462680c4e3" width="180"/> |
-
----
 
 ### 👤 Profile & Settings
 
