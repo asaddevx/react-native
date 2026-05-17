@@ -95,11 +95,16 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | <img src="https://github.com/user-attachments/assets/d859805f-83c1-455a-8723-1064b5dde82a" width="180"/> | <img src="https://github.com/user-attachments/assets/8418e482-96f5-42a6-83d7-d10c5ffae26d" width="180"/> | <img src="https://github.com/user-attachments/assets/41691123-709a-4e57-8652-ddf184812d49" width="180"/> | <img src="https://github.com/user-attachments/assets/66ecb9c4-6a33-481e-afd4-1d20b9472666" width="180"/> |
 
 ---
+### 🧮 Tools (Calculators)
+
+| All Calculators | Currency Converter | Loan/EMI Calculator | Loan/EMI Result |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/4c98e1db-cb53-4c32-9244-db20eef617b0" width="180"/> | <img src="https://github.com/user-attachments/assets/dde1bbfa-655b-49fc-99c8-1ba84ebfe468" width="180"/> | <img src="https://github.com/user-attachments/assets/571b7eb9-3b7f-4577-bc5d-73ba937dccf1" width="180"/> | <img src="https://github.com/user-attachments/assets/39a23954-b9a1-4b3e-b9d3-32c2b9d54497" width="180"/> |
 
 
 ## 🏗️ Core Features Architecture
 
-### 📱 Module 1: User Account Management *(Sprint 1, Weeks 1-2)*
+### 📱 Module 1: User Account Management 
 
 **Description**: Secure user authentication and comprehensive profile management system.
 
@@ -126,7 +131,7 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 
 ---
 
-### 💰 Module 2: Transaction Management *(Sprint 2, Weeks 3-4)*
+### 💰 Module 2: Transaction Management 
 
 **Description**: Comprehensive income and expense tracking with intelligent categorization.
 
@@ -162,7 +167,7 @@ transactions: {
 
 ---
 
-### 🎯 Module 3: Budget Management *(Sprint 3, Weeks 5-6)*
+### 🎯 Module 3: Budget Management 
 
 **Description**: Intelligent budget creation and progress tracking with smart alerts.
 
@@ -179,7 +184,7 @@ transactions: {
 
 ---
 
-### 📊 Module 4: Data Visualization *(Sprint 4, Weeks 7-8)*
+### 📊 Module 4: Data Visualization 
 
 **Description**: Rich dashboard with comprehensive financial analytics and insights.
 
@@ -198,7 +203,7 @@ transactions: {
 
 ---
 
-### 🔒 Module 5: Data Export & Security *(Sprint 5, Weeks 9-10)*
+### 🔒 Module 5: Data Export & Security 
 
 **Description**: Secure data handling with comprehensive export capabilities.
 
@@ -216,7 +221,7 @@ transactions: {
 
 ---
 
-## 🤖 AI Integration Features *(Months 4-5)*
+## 🤖 AI Integration Features 
 
 ### 🧠 AI-Powered Insights
 - **Spending Pattern Analysis**: Machine learning-based spending behavior insights
@@ -444,11 +449,7 @@ A practical and visually appealing finance management app that demonstrates stro
 ## 📱 App Screenshots
 
 
-### 🧮 Tools (Calculators)
 
-| All Calculators | Currency Converter | Loan/EMI Calculator | Loan/EMI Result |
-|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/4c98e1db-cb53-4c32-9244-db20eef617b0" width="180"/> | <img src="https://github.com/user-attachments/assets/dde1bbfa-655b-49fc-99c8-1ba84ebfe468" width="180"/> | <img src="https://github.com/user-attachments/assets/571b7eb9-3b7f-4577-bc5d-73ba937dccf1" width="180"/> | <img src="https://github.com/user-attachments/assets/39a23954-b9a1-4b3e-b9d3-32c2b9d54497" width="180"/> |
 
 | Tax Calculator | Tax Result | Tax Slabs |
 |:---:|:---:|:---:|
