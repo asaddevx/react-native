@@ -4,22 +4,21 @@
 
 **SmartBudgetAnalyzer** is a cutting‑edge mobile application for iOS and Android, built with **React Native** and **TypeScript**. It is designed to revolutionize personal finance management for students and professionals. The app leverages **Firebase** for secure authentication, **Supabase (PostgreSQL)** for real‑time data persistence, **AsyncStorage** for offline‑first caching, and a **hybrid AI engine** – combining an offline Python‑trained Random Forest classifier with a real‑time client‑side heuristic algorithm – to deliver intelligent category suggestions and a Financial Health Score without compromising privacy.
 
-
 ---
 
 ## 🎯 The Problem We Saw
 
 Managing personal finances is a source of anxiety for millions. The obstacles are everywhere:
 
-- 📊 **Data Overload, No Insight** — Bank statements show *what* you spent, but not *why* or *how to fix it*.
-- 💸 **Unexpected Bills** — Subscriptions renew, bills arrive, and your budget breaks before you even notice.
-- 🏷️ **Manual Categorization Hell** — Downloading CSVs and tagging every coffee, grocery, and Uber ride is soul-crushing.
-- 📉 **No Predictive Power** — Most apps tell you *after* you've overspent. No one warns you *before*.
-- 🔐 **Privacy Fears** — Uploading bank credentials to third-party apps feels like handing over your financial soul.
+- 📊 **Data Overload, No Insight** – Bank statements show *what* you spent, but not *why* or *how to fix it*.
+- 💸 **Unexpected Bills** – Subscriptions renew, bills arrive, and your budget breaks before you even notice.
+- 🏷️ **Manual Categorization Hell** – Downloading CSVs and tagging every coffee, grocery, and Uber ride is soul‑crushing.
+- 📉 **No Predictive Power** – Most apps tell you *after* you've overspent. No one warns you *before*.
+- 🔐 **Privacy Fears** – Uploading bank credentials to third‑party apps feels like handing over your financial soul.
 
 > *The result?* Financial stress, missed savings goals, and a feeling of being perpetually behind.
 
----
+----
 ## 💡 The Solution We Built
 
 **Smart Budget Analyzer** is your AI-powered financial co-pilot. It automates the boring stuff and predicts the unexpected.
@@ -313,19 +312,7 @@ A practical and visually appealing finance management app that demonstrates stro
 
 
 
----
 
-## 🎯 The Problem We Saw
-
-Managing personal finances is a source of anxiety for millions. The obstacles are everywhere:
-
-- 📊 **Data Overload, No Insight** – Bank statements show *what* you spent, but not *why* or *how to fix it*.
-- 💸 **Unexpected Bills** – Subscriptions renew, bills arrive, and your budget breaks before you even notice.
-- 🏷️ **Manual Categorization Hell** – Downloading CSVs and tagging every coffee, grocery, and Uber ride is soul‑crushing.
-- 📉 **No Predictive Power** – Most apps tell you *after* you've overspent. No one warns you *before*.
-- 🔐 **Privacy Fears** – Uploading bank credentials to third‑party apps feels like handing over your financial soul.
-
-> *The result?* Financial stress, missed savings goals, and a feeling of being perpetually behind.
 
 ---
 
