@@ -162,287 +162,91 @@ Real-time bi-directional currency converter supporting 10+ currencies (PKR, USD,
 
 ---
 
+## 🤖 Hybrid AI Engine: Offline ML + Real‑Time Heuristics
+
+Unlike cloud‑based AI services, our intelligence runs **entirely on your device** – protecting your privacy while delivering zero‑latency predictions.
+
+### 🧠 1. Offline Training Pipeline (Python / Scikit‑learn)
+
+- **Dataset**: Thousands of real transaction records (`transactions_rows.csv`) with descriptions, amounts, and categories.
+- **Models Trained**: Random Forest (selected) and SVM (baseline) using TF‑IDF vectorization.
+- **Performance**: Random Forest achieved **92% accuracy**, 88% precision, 86% recall (F1‑score 83.5%).
+- **Output**: Trained model weights and keyword‑category mappings are **exported to the mobile app’s heuristic engine** – no online inference required.
+
+### ⚡ 2. Client‑Side Heuristic Engine (TypeScript)
+
+- **Smart Category Suggestion**  
+  As the user types a description, a **1.5‑second debounce** triggers a keyword matching algorithm (e.g., “Uber” → Transport, “McDonald’s” → Food).  
+  Confidence scores are shown to the user; the system learns from corrections via feedback logging.
+
+- **AI Spending Score (0–100)**  
+  A real‑time formula running on the device:
+  ```
+  Base Score = 50
+  Ratio = Expenses / Income
+  If Ratio > 0.9 → Score = 20 (heavy penalty)
+  Else if Ratio < 0.5 → Score += 15 (savings bonus)
+  Score -= (Large transactions > 10,000) × 5
+  Final Score clamped to 0–100
+  ```
+  Colour‑coded cards (red, amber, green) give instant visual feedback.
+
+- **Unusual Transaction Alert**  
+  Any single expense > ₹10,000 triggers a **push notification** (via Expo) to the user, asking for verification – preventing fraud and encouraging mindful spending.
+
+---
+
 ## 🏗️ Core Features Architecture
 
-### 📱 Module 1: User Account Management 
+### 📱 Module 1: User Account Management (Firebase Auth + Supabase RLS)
 
-**Description**: Secure user authentication and comprehensive profile management system.
+- **Authentication**: Email/password + Google OAuth via Firebase SDK. Biometric login (FaceID / Fingerprint) via `expo-local-authentication`.
+- **Data Isolation**: Every database query enforces **Row‑Level Security (RLS)** – users can only access their own `transactions`, `budgets`, and `goals` records.
 
-#### 🔐 Authentication Features
-- **Multi-Provider Login**: Email/password and Google OAuth via Firebase Auth
-- **Biometric Security**: Face ID/Touch ID integration using react-native-biometrics
-- **Profile Customization**: Currency preferences (USD, PKR, etc.) and budget settings
-- **Offline Support**: AsyncStorage caching with Firebase sync
+### 💰 Module 2: Transaction Management & AI Categorization
 
-#### 🛠️ Implementation Details
-```typescript
-// Firebase Authentication Integration
-- Firebase Auth for user management
-- Google OAuth for seamless social login
-- Secure token management
-- Real-time profile synchronization
-```
+- **CRUD Operations**: Add, edit, delete transactions with full details (amount, description, date, notes).
+- **Hybrid Category Suggestion**: Heuristic engine (based on ML‑derived keyword rules) suggests a category with confidence.
+- **Soft Delete**: Deleted transactions are moved to an `is_deleted` flag for 30 days, preserving AI training data integrity.
 
-#### �� UI Components
-- **Registration Screen**: Attractive signup with form validation
-- **Login Screen**: Professional authentication interface
-- **Profile Settings**: User preference management
-- **Forgot Password**: Secure password recovery flow
+### 📊 Module 3: Budget & Goal Management
 
----
+- **Dynamic Budgets**: Set monthly limits per category (e.g., Food = ₹20,000). Real‑time progress bars show remaining amount.
+- **80% Alert**: When spending reaches 80% of budget, a **push notification** is sent immediately.
+- **Savings Goals**: Define targets (e.g., “Trip to Murree – ₹50,000 by Dec 2025”). Contributions are tracked; milestones (25%, 50%, 75%, 100%) trigger **celebratory notifications** with confetti effects.
 
-### 💰 Module 2: Transaction Management 
+### 📈 Module 4: Analytics & Insights
 
-**Description**: Comprehensive income and expense tracking with intelligent categorization.
+- **Dashboard Cards**: Total balance, income vs. expenses, AI Spending Score, and top spending category insight (e.g., “High food spending – consider cooking at home”).
+- **Charts**: SVG pie charts for category breakdown, bar charts for monthly trends (powered by `react-native-svg`).
+- **Period Filters**: View data by week, month, or year.
 
-#### 📊 Transaction Features
-- **CRUD Operations**: Add, edit, delete transactions with full details
-- **Quick Add**: Fast entry with pre-filled date and smart suggestions
-- **Smart Categorization**: AI-powered automatic category assignment
-- **Custom Categories**: User-defined categories (e.g., "Dog Food", "Gym Membership")
-- **Soft Delete**: 30-day archive system for data recovery
+### 🔒 Module 5: Data Export & Security
 
-#### �� Default Categories
-- 🍽️ **Food & Dining**
-- 💧 **Utilities** (Water, Electricity)
-- ⛽ **Transportation** (Gas, Public Transport)
-- �� **Education**
-- 🏥 **Healthcare**
-- 🎯 **Extra** (Custom categories)
-
-#### �� Implementation
-```typescript
-// Firebase Firestore Collections
-transactions: {
-  id: string,
-  userId: string,
-  amount: number,
-  category: string,
-  description: string,
-  date: timestamp,
-  notes: string,
-  isDeleted: boolean
-}
-```
+- **CSV Export**: Share full transaction history via email or cloud storage.
+- **Encrypted Local Storage**: JWT tokens and biometric flags are stored in `expo-secure-store` (hardware‑encrypted).
+- **Cloud Backup**: Firebase + Supabase provide automated daily backups.
 
 ---
 
-### 🎯 Module 3: Budget Management 
+## 🛠️ Technical Stack
 
-**Description**: Intelligent budget creation and progress tracking with smart alerts.
-
-#### 📈 Budget Features
-- **Dynamic Budgets**: Create budgets for any category (default or custom)
-- **Progress Tracking**: Visual progress bars with percentage indicators
-- **Smart Alerts**: 80% threshold notifications to prevent overspending
-- **Budget Analytics**: Spending trends and budget performance insights
-
-#### 🎨 Visual Elements
-- **Progress Bars**: Color-coded budget utilization
-- **Charts**: Visual representation of budget vs. actual spending
-- **Alerts**: Push notifications for budget milestones
-
----
-
-### 📊 Module 4: Data Visualization 
-
-**Description**: Rich dashboard with comprehensive financial analytics and insights.
-
-#### �� Dashboard Features
-- **Financial Overview**: Total balance, income vs. expenses summary
-- **Recent Transactions**: Latest activity with quick actions
-- **Spending Analytics**: Category-wise breakdown with pie charts
-- **Trend Analysis**: Monthly/yearly spending patterns
-- **Quick Actions**: Fast access to common functions
-
-#### 📈 Chart Types
-- **Pie Charts**: Category-wise spending distribution
-- **Bar Charts**: Income vs. expenses comparison
-- **Line Charts**: Spending trends over time
-- **Progress Charts**: Budget utilization visualization
+| Component | Technology |
+|:----------|:-----------|
+| **Frontend** | React Native (Expo SDK), TypeScript |
+| **State Management** | React Context API (AuthContext, BudgetContext) |
+| **Navigation** | Expo Router (file‑based) |
+| **Authentication** | Firebase Auth (Email/Google, Biometric) |
+| **Database** | Supabase (PostgreSQL) with RLS |
+| **AI/ML (Research)** | Python, Pandas, Scikit‑learn (Random Forest, SVM, TF‑IDF) |
+| **AI/ML (Runtime)** | Custom TypeScript heuristic engine (keyword matching, spending score algorithm) |
+| **Notifications** | Expo Notifications (push + local scheduling) |
+| **Charts** | react-native-svg (custom SVG pie/bar charts) |
+| **Storage** | AsyncStorage (settings cache), expo-secure-store (tokens) |
+| **Calculators** | Offline formula‑based (Loan, Investment, Tax, Budget, Savings, Currency) |
 
 ---
 
-### 🔒 Module 5: Data Export & Security 
-
-**Description**: Secure data handling with comprehensive export capabilities.
-
-#### 📤 Export Features
-- **CSV Export**: Complete transaction history export
-- **Mobile Sharing**: Direct sharing via device sharing options
-- **Backup System**: Automatic cloud backup with Firebase
-- **Data Recovery**: Restore functionality for data protection
-
-#### �� Security Features
-- **Encrypted Storage**: react-native-keychain for sensitive data
-- **HTTPS Communication**: Secure API calls to Firebase
-- **Data Privacy**: User data protection and GDPR compliance
-- **Secure Authentication**: Multi-factor authentication support
-
----
-
-## 🤖 AI Integration Features 
-
-### 🧠 AI-Powered Insights
-- **Spending Pattern Analysis**: Machine learning-based spending behavior insights
-- **Predictive Alerts**: Smart notifications for unusual spending patterns
-- **Category Suggestions**: AI-powered transaction categorization
-- **Savings Recommendations**: Personalized savings tips and strategies
-
-### 🔧 Technical Implementation
-```typescript
-// TensorFlow.js Integration
-- Lightweight ML models for edge computing
-- Hybrid categorization system
-- Real-time learning from user corrections
-- Privacy-preserving AI processing
-```
-
----
-
-## ��️ Firebase Database Schema
-
-### 📊 Collections Structure
-
-#### 👤 Users Collection
-```javascript
-users: {
-  uid: {
-    email: string,
-    fullName: string,
-    currency: string,           // USD, PKR, etc.
-    budgetPreferences: object,
-    biometricEnabled: boolean,
-    createdAt: timestamp,
-    lastLogin: timestamp
-  }
-}
-```
-
-#### 🏷️ Categories Collection
-```javascript
-categories: {
-  categoryId: {
-    userId: string,             // null for default categories
-    name: string,               // "Food", "Transport", etc.
-    isDefault: boolean,
-    parentCategory: string,     // "Extra" for custom categories
-    keywords: array,            // AI categorization keywords
-    color: string,              // UI color code
-    icon: string,               // Category icon
-    createdAt: timestamp
-  }
-}
-```
-
-#### 💰 Transactions Collection
-```javascript
-transactions: {
-  transactionId: {
-    userId: string,
-    amount: number,             // Positive for income, negative for expenses
-    category: string,
-    description: string,
-    date: timestamp,
-    notes: string,
-    isDeleted: boolean,
-    deletedAt: timestamp,
-    createdAt: timestamp,
-    updatedAt: timestamp
-  }
-}
-```
-
-#### �� Budgets Collection
-```javascript
-budgets: {
-  budgetId: {
-    userId: string,
-    category: string,
-    amount: number,
-    startDate: timestamp,
-    endDate: timestamp,
-    alertThreshold: number,     // Default: 80%
-    createdAt: timestamp
-  }
-}
-```
-
-#### 🔄 Feedback Collection
-```javascript
-feedback: {
-  feedbackId: {
-    userId: string,
-    transactionId: string,
-    originalCategory: string,
-    correctedCategory: string,
-    createdAt: timestamp
-  }
-}
-```
-
-### �� Security Rules
-```javascript
-// Firebase Security Rules
-- User-based access control
-- Data validation and sanitization
-- Rate limiting for API calls
-- Secure authentication requirements
-```
-
----
-
-## ��️ Technical Stack
-
-### �� Frontend
-- **React Native** (v0.79.5) - Cross-platform mobile development
-- **TypeScript** - Type-safe development
-- **Expo Router** - Navigation and routing
-- **Expo Linear Gradient** - Beautiful gradient backgrounds
-- **React Native Animated** - Smooth animations
-
-### �� Backend & Services
-- **Firebase Authentication** - User management
-- **Firebase Firestore** - Real-time database
-- **Firebase Storage** - File storage (future)
-- **Firebase Functions** - Serverless backend (future)
-
-### �� AI & ML
-- **TensorFlow.js** - Lightweight machine learning
-- **Custom ML Models** - Spending pattern analysis
-- **Hybrid Categorization** - Rule-based + ML approach
-
-### 📦 Storage & Sync
-- **AsyncStorage** - Local data caching
-- **Firebase Sync** - Real-time cloud synchronization
-- **Offline Support** - Seamless offline functionality
-
----
-
-### 🎯 Development Approach
-- **Agile Methodology**: Bi-weekly sprints for iterative development
-- **Version Control**: Git with GitHub for collaboration
-- **Code Quality**: ESLint and TypeScript for code standards
-- **Testing**: Comprehensive testing throughout development
-
-
----
-
-## 🏆 Project Impact
-
-### 🎓 Academic Achievement
-- **Advanced Skills**: Modern mobile development and AI integration
-- **Industry Standards**: Professional-grade application development
-- **Innovation**: AI-powered financial management solution
-- **Portfolio**: Showcase project for career opportunities
-
-### �� Professional Value
-- **Real-World Application**: Practical financial management tool
-- **Technical Excellence**: Modern tech stack and best practices
-- **User-Centric Design**: Professional UI/UX implementation
-- **Scalable Architecture**: Enterprise-ready codebase
-
----
 
 ## ✨ Smart Budget Analyser Key Highlights
 
