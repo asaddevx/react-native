@@ -21,15 +21,15 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 ----
 ## 💡 The Solution We Built
 
-**Smart Budget Analyzer** is your AI-powered financial co-pilot. It automates the boring stuff and predicts the unexpected.
+**SmartBudgetAnalyzer** is your AI‑powered financial co‑pilot. It automates the boring stuff and predicts the unexpected – all while keeping your data completely private through an **on‑device hybrid intelligence engine**.
 
 | Problem | Our Solution |
 |:--------|:-------------|
-| **Data Overload** | **AI-Powered Categorization** — Gemini AI automatically categorizes transactions (Groceries, Dining, Transport, etc.). |
-| **Unexpected Bills** | **Predictive Spending Alerts** — Get notified *before* a subscription renews or a bill is due. |
-| **Manual Categorization** | **Fully Automated Pipeline** — Import bank statements (PDF/CSV) → AI tags → Instant dashboard. |
-| **No Predictive Power** | **Smart Forecasting** — AI predicts your end-of-month balance based on current spending patterns. |
-| **Privacy Fears** | **Local-First Processing** — Your data is analyzed on-device. No bank credentials are ever stored on our servers. |
+| **Data Overload** | **Hybrid AI Categorization** – A **Random Forest classifier** (trained offline on 80/20 split of real transaction data) combined with a **client‑side keyword heuristic** provides instant, privacy‑safe category suggestions (Food, Transport, Education, etc.) with high precision. |
+| **Unexpected Bills** | **Predictive Spending Alerts** – The system continuously monitors spending against category budgets and triggers **immediate push notifications** when you exceed 80% of your limit or log an **unusual transaction** (> ₹10,000). |
+| **Manual Categorization** | **Automated Pipeline** – Enter a description; after a 1.5s debounce, the AI suggests a category. One tap to confirm – no more scrolling through dropdowns. |
+| **No Predictive Power** | **AI Spending Score (0–100)** – A proprietary heuristic algorithm evaluates your monthly income‑to‑expense ratio, savings rate, and large transaction spikes to generate a **real‑time financial health score** with colour‑coded feedback (Excellent, Good, Fair, At‑Risk). |
+| **Privacy Fears** | **Local‑First Processing** – All sensitive calculation logic runs on your device. The only data stored in the cloud is encrypted via Firebase Auth and Supabase **Row‑Level Security**. No third‑party bank feeds, no credential sharing. |
 
 ### 🧠 What Makes Smart Budget Analyzer Different?
 
@@ -316,17 +316,7 @@ A practical and visually appealing finance management app that demonstrates stro
 
 ---
 
-## 💡 The Solution We Built
 
-**SmartBudgetAnalyzer** is your AI‑powered financial co‑pilot. It automates the boring stuff and predicts the unexpected – all while keeping your data completely private through an **on‑device hybrid intelligence engine**.
-
-| Problem | Our Solution |
-|:--------|:-------------|
-| **Data Overload** | **Hybrid AI Categorization** – A **Random Forest classifier** (trained offline on 80/20 split of real transaction data) combined with a **client‑side keyword heuristic** provides instant, privacy‑safe category suggestions (Food, Transport, Education, etc.) with high precision. |
-| **Unexpected Bills** | **Predictive Spending Alerts** – The system continuously monitors spending against category budgets and triggers **immediate push notifications** when you exceed 80% of your limit or log an **unusual transaction** (> ₹10,000). |
-| **Manual Categorization** | **Automated Pipeline** – Enter a description; after a 1.5s debounce, the AI suggests a category. One tap to confirm – no more scrolling through dropdowns. |
-| **No Predictive Power** | **AI Spending Score (0–100)** – A proprietary heuristic algorithm evaluates your monthly income‑to‑expense ratio, savings rate, and large transaction spikes to generate a **real‑time financial health score** with colour‑coded feedback (Excellent, Good, Fair, At‑Risk). |
-| **Privacy Fears** | **Local‑First Processing** – All sensitive calculation logic runs on your device. The only data stored in the cloud is encrypted via Firebase Auth and Supabase **Row‑Level Security**. No third‑party bank feeds, no credential sharing. |
 
 ### 🧠 What Makes SmartBudgetAnalyzer Different?
 
