@@ -31,12 +31,12 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 | **No Predictive Power** | **AI Spending Score (0–100)** – A proprietary heuristic algorithm evaluates your monthly income‑to‑expense ratio, savings rate, and large transaction spikes to generate a **real‑time financial health score** with colour‑coded feedback (Excellent, Good, Fair, At‑Risk). |
 | **Privacy Fears** | **Local‑First Processing** – All sensitive calculation logic runs on your device. The only data stored in the cloud is encrypted via Firebase Auth and Supabase **Row‑Level Security**. No third‑party bank feeds, no credential sharing. |
 
-### 🧠 What Makes Smart Budget Analyzer Different?
+### 🧠 What Makes SmartBudgetAnalyzer Different?
 
-- **AI That Understands Context** — A transaction at "Target" isn't always "Shopping." Gemini AI learns your patterns (e.g., Target groceries vs. Target clothes).
-- **Actionable, Not Just Informative** — The app doesn't just say "You spent $500 on dining." It suggests: "Try our 'Brown Bag Challenge' this week to save $40."
-- **Offline-First Privacy** — Your financial data never leaves your device unless you explicitly choose to back it up. No cloud storage of raw transactions.
-- **From Reactive to Proactive** — Predictive alerts mean you fix your budget *before* it breaks, not after.
+- **Offline‑Trained, Real‑Time Executed** – We built a **Python ML pipeline** (Pandas, Scikit‑learn) that trains Random Forest and SVM models on thousands of historical transactions. The resulting intelligence is distilled into a lightweight keyword‑matching engine that runs instantly on your phone – no server latency, no data leaks.
+- **Proactive Alerts, Not Just Charts** – You don't have to open the app to know you're overspending. **Expo push notifications** warn you the moment a budget limit is breached.
+- **Six Tools in One App** – Integrated offline calculators (Loan EMI, Investment SIP, Pakistan Tax 2025‑26, 50/30/20 Budget Planner, Savings Goal, Currency Converter) turn your phone into a complete financial command center.
+- **Academic‑Grade AI Validation** – Our Random Forest model achieved **92% accuracy** on the test set, and the live heuristic score is mathematically designed to encourage better saving habits (scoring penalties for spending >90% of income, bonuses for savings >50%).
 
 ---
 ### �� Design Philosophy
@@ -318,14 +318,7 @@ A practical and visually appealing finance management app that demonstrates stro
 
 
 
-### 🧠 What Makes SmartBudgetAnalyzer Different?
 
-- **Offline‑Trained, Real‑Time Executed** – We built a **Python ML pipeline** (Pandas, Scikit‑learn) that trains Random Forest and SVM models on thousands of historical transactions. The resulting intelligence is distilled into a lightweight keyword‑matching engine that runs instantly on your phone – no server latency, no data leaks.
-- **Proactive Alerts, Not Just Charts** – You don't have to open the app to know you're overspending. **Expo push notifications** warn you the moment a budget limit is breached.
-- **Six Tools in One App** – Integrated offline calculators (Loan EMI, Investment SIP, Pakistan Tax 2025‑26, 50/30/20 Budget Planner, Savings Goal, Currency Converter) turn your phone into a complete financial command center.
-- **Academic‑Grade AI Validation** – Our Random Forest model achieved **92% accuracy** on the test set, and the live heuristic score is mathematically designed to encourage better saving habits (scoring penalties for spending >90% of income, bonuses for savings >50%).
-
----
 
 ### 🧮 Tools (Calculators)
 
