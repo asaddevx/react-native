@@ -250,14 +250,13 @@ Unlike cloud‑based AI services, our intelligence runs **entirely on your devic
 
 ## ✨ Smart Budget Analyser Key Highlights
 
-- **Intelligent Personal Finance Tracker** — A smart React Native mobile app that helps users manage their income, expenses, and budget effectively
-- **Firebase Backend Integration** — Real-time data synchronization, authentication, and cloud storage
-- **Visual Spending Insights** — Beautiful interactive charts and graphs to analyze spending patterns
-- **Smart Budget Planning** — Set monthly budgets with automatic alerts when approaching limits
-- **Transaction Categorization** — Easy categorization with custom tags and search functionality
-- **Modern TypeScript Architecture** — Clean, type-safe code with Zustand for efficient state management
-- **Smooth Animations & UX** — Delightful user experience with Reanimated and modern UI components
-- **Offline Support** — Works reliably even with limited connectivity using Firebase caching
+- **Hybrid AI Financial Engine** – Combines **offline‑trained Random Forest** (92% accuracy) with a **real‑time heuristic scoring system** to deliver privacy‑safe category suggestions and a Financial Health Score.
+- **Six Offline Tools** – Loan EMI, Investment, Pakistan Tax (FBR 2025‑26), 50/30/20 Budget Planner, Savings Goal, and Currency Converter – all working without internet.
+- **Real‑Time Budget Guardrails** – Push notifications for 80% budget limit, unusual large transactions, and goal milestones.
+- **Production‑Grade MERN‑vibe Stack** – React Native + Firebase Auth + Supabase PostgreSQL with Row‑Level Security.
+- **Modern UI/UX** – Glassmorphism design, dark/light theme, smooth animations, responsive layouts.
+- **Offline‑First Architecture** – AsyncStorage caching ensures the dashboard works even with intermittent connectivity.
+- **Academic Research Integration** – Python ML pipeline (TF‑IDF + Random Forest) validated with confusion matrix and F1‑score.
 
 A practical and visually appealing finance management app that demonstrates strong React Native + Firebase skills with focus on user-friendly financial insights.
 ---
