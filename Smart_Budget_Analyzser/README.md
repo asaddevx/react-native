@@ -1,5 +1,17 @@
 # 🚀 SmartBudgetAnalyzer v1.1 - Complete Project
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Offline_AI-00BFFF?style=for-the-badge" alt="Offline AI" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
+
 ## 📱 Project Overview
 
 **SmartBudgetAnalyzer** is a cutting‑edge mobile application for iOS and Android, built with **React Native** and **TypeScript**. It is designed to revolutionize personal finance management for students and professionals. The app leverages **Firebase** for secure authentication, **Supabase (PostgreSQL)** for real‑time data persistence, **AsyncStorage** for offline‑first caching, and a **hybrid AI engine** – combining an offline Python‑trained Random Forest classifier with a real‑time client‑side heuristic algorithm – to deliver intelligent category suggestions and a Financial Health Score without compromising privacy.
@@ -37,12 +49,6 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 - **Proactive Alerts, Not Just Charts** – You don't have to open the app to know you're overspending. **Expo push notifications** warn you the moment a budget limit is breached.
 - **Six Tools in One App** – Integrated offline calculators (Loan EMI, Investment SIP, Pakistan Tax 2025‑26, 50/30/20 Budget Planner, Savings Goal, Currency Converter) turn your phone into a complete financial command center.
 - **Academic‑Grade AI Validation** – Our Random Forest model achieved **92% accuracy** on the test set, and the live heuristic score is mathematically designed to encourage better saving habits (scoring penalties for spending >90% of income, bonuses for savings >50%).
-
----
-### �� Design Philosophy
-- **Color Scheme**: Beautiful blue (#1e90ff) to green (#32cd32) gradient UI
-- **User Experience**: Touch-friendly, responsive design with smooth animations
-- **Professional Look**: Modern interface aligned with industry best practices
 
 ---
 
@@ -210,9 +216,9 @@ Unlike cloud‑based AI services, our intelligence runs **entirely on your devic
 
 ### 📊 Module 3: Budget & Goal Management
 
-- **Dynamic Budgets**: Set monthly limits per category (e.g., Food = ₹20,000). Real‑time progress bars show remaining amount.
+- **Dynamic Budgets**: Set monthly limits per category (e.g., Food = 20,000). Real‑time progress bars show remaining amount.
 - **80% Alert**: When spending reaches 80% of budget, a **push notification** is sent immediately.
-- **Savings Goals**: Define targets (e.g., “Trip to Murree – ₹50,000 by Dec 2025”). Contributions are tracked; milestones (25%, 50%, 75%, 100%) trigger **celebratory notifications** with confetti effects.
+- **Savings Goals**: Define targets (e.g., “Trip to Murree – 50,000 by Dec 2025”). Contributions are tracked; milestones (25%, 50%, 75%, 100%) trigger **celebratory notifications** with confetti effects.
 
 ### 📈 Module 4: Analytics & Insights
 
@@ -273,10 +279,12 @@ A practical and visually appealing finance management app that demonstrates stro
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
-  <img src="https://img.shields.io/badge/Reanimated-FF6F00?style=for-the-badge" alt="Reanimated" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Offline_AI-00BFFF?style=for-the-badge" alt="Offline AI" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge" alt="Charts" />
 </p>
 
 ---
