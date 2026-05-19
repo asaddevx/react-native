@@ -50,7 +50,7 @@ Millions of people struggle silently with their mental health every day. The bar
 
 | Loading Screen | Home Screen | Login | Sign Up | Forgot Password |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/751a88aa-cf36-4f21-a1b0-f7df60d5b876" width="150"/> | <img src="https://github.com/user-attachments/assets/f9e35794-3d8e-4612-b8f1-b681b75ca292" width="150"/> |
+| <img src="https://github.com/user-attachments/assets/751a88aa-cf36-4f21-a1b0-f7df60d5b876" width="150"/> | <img src="https://github.com/user-attachments/assets/f9e35794-3d8e-4612-b8f1-b681b75ca292" width="150"/> | <img src="https://github.com/user-attachments/assets/f90f4602-0cb0-485d-9240-156cba4d5196" width="150"/> |
 ## 🚀 Key Features
 
 * **🤖 AI Mental Health Companion:** Integrated Google Gemini AI for context-aware wellness guidance and crisis detection.
