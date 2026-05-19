@@ -62,6 +62,11 @@ Millions of people struggle silently with their mental health every day. The bar
 
 ---
 
+### 🧠 Core Wellness Features
+
+| Mood Tracker | AI Chat | Resources | Community |
+|:---:|:---:|:---:|:---:|
+
 ## 🚀 Key Features
 
 * **🤖 AI Mental Health Companion:** Integrated Google Gemini AI for context-aware wellness guidance and crisis detection.
