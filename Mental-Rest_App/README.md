@@ -46,23 +46,8 @@ Millions of people struggle silently with their mental health every day. The bar
 
 <div align="center">
 
-| Home | Mood Tracker | AI Chat |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/f3bb78f3-adca-4823-8fba-0c1c685d7344" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
+### 🔐 Authentication Flow
 
-| Resources | Journal | Community |
-|:---:|:---:|:---:|
-| <img src="https://github.com/user-attachments/assets/d3f6ee33-094b-45aa-b1b8-532d0192a3f9" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/ec7fc7f3-5adb-4255-81ef-bd96e1108c90" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> | <img src="https://github.com/user-attachments/assets/49709643-0a5c-4671-8bde-fcb09f7add08" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
-
-| Profile |
-|:---:|
-| <img src="https://github.com/user-attachments/assets/cda5e3bf-8e8e-442f-b632-86dc1ed5375e" width="200" style="border-radius: 15px; border: 2px solid #e0e0e0; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> |
-
-<br>
-
-*✨ Your complete wellness companion ✨*
-
-</div>
 
 
 ## 🚀 Key Features
