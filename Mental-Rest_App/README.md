@@ -48,7 +48,8 @@ Millions of people struggle silently with their mental health every day. The bar
 
 ### 🔐 Authentication Flow
 
-
+| Loading Screen | Home Screen | Login | Sign Up | Forgot Password |
+|:---:|:---:|:---:|:---:|:---:|
 
 ## 🚀 Key Features
 
