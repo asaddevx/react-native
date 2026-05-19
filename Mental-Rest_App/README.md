@@ -66,6 +66,7 @@ Millions of people struggle silently with their mental health every day. The bar
 
 | Mood Tracker | AI Chat | Resources | Community |
 |:---:|:---:|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/fb7f5268-e194-4233-a2ac-e4ff55d39e84" width="180"/> | <img src="https://github.com/user-attachments/assets/29292a8a-7e28-4f87-b857-72a0fdce42ea" width="180"/> |
 
 ## 🚀 Key Features
 
