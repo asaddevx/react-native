@@ -110,7 +110,10 @@ src/
 | `@google/generative-ai` | Gemini AI integration |
 | `axios` | API requests |
 | `react-native-maps` | Mapbox integration |
+| `zustand` | State management |
+| `react-native-reanimated` | Smooth animations |
 
+---
 
 ## 🤝 Contributing
 
