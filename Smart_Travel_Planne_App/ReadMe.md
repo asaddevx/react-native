@@ -106,6 +106,9 @@ src/
 |:--------|:--------|
 | `expo` | React Native framework |
 | `expo-router` | File-based navigation |
+| `firebase` | Auth, Firestore, Storage |
+| `@google/generative-ai` | Gemini AI integration |
+
 
 ## 🤝 Contributing
 
