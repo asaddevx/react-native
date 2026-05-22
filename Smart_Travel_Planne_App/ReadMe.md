@@ -100,6 +100,10 @@ src/
 └── utils/        # PDF Generation & Data export logic
 
 ```
+## 📦 Key Dependencies
+
+| Package | Purpose 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
