@@ -100,6 +100,13 @@ src/
 └── utils/        # PDF Generation & Data export logic
 
 ```
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+1. Fork the repository
+
+
 ## ✨ Smart Travel Planner App Key Highlights
 
 - **AI-Powered Smart Travel Planner** — Intelligent React Native mobile app that generates personalized travel itineraries using Gemini AI
