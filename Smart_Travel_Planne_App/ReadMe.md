@@ -108,6 +108,8 @@ src/
 | `expo-router` | File-based navigation |
 | `firebase` | Auth, Firestore, Storage |
 | `@google/generative-ai` | Gemini AI integration |
+| `axios` | API requests |
+| `react-native-maps` | Mapbox integration |
 
 
 ## 🤝 Contributing
