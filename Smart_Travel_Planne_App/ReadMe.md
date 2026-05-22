@@ -103,6 +103,9 @@ src/
 ## 📦 Key Dependencies
 
 | Package | Purpose 
+|:--------|:--------|
+| `expo` | React Native framework |
+| `expo-router` | File-based navigation |
 
 ## 🤝 Contributing
 
