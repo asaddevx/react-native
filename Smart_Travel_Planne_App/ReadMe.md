@@ -4,7 +4,9 @@
 [![React Native](https://img.shields.io/badge/React_Native-v0.74-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactnative.dev/)
 [![Firebase](https://img.shields.io/badge/Firebase-Auth_&_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Gemini AI](https://img.shields.io/badge/Gemini_AI-Google-8E75FF?style=for-the-badge&logo=googlegemini&logoColor=white)](https://ai.google.dev/)
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  
 **Smart Travel Planner** is an AI-powered travel ecosystem designed to turn "where to?" into a fully planned itinerary in seconds. Featuring integrated hotel, flight, and car bookings with a native digital wallet, it’s the ultimate companion for the modern traveler.
 
 ---
