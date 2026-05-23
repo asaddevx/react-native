@@ -8,6 +8,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Powered_By-Gemini_AI-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
+
   
 **Mind Space** is a sophisticated mental wellness ecosystem built with React Native. It combines AI-driven therapy insights, mood analytics, and a supportive community to help users navigate their mental health journey with precision and privacy.
 ---
