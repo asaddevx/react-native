@@ -160,7 +160,8 @@ A thoughtful and intelligent mental wellness application that combines AI with e
   <p align="center">
   <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Powered_By-Gemini_AI-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Backend-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /> 
+  <img src="https://img.shields.io/badge/Security-Biometric-00C853?style=flat-square&logo=fingerprint&logoColor=white" />  
 </p>
 
 ---
