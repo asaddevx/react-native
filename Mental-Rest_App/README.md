@@ -117,6 +117,8 @@ app/
 | `expo-router` | File-based navigation |
 | `firebase` | Auth, Firestore, Storage |
 | `@google/generative-ai` | Gemini AI integration |
+| `react-native-chart-kit` | Mood analytics charts |
+| `react-native-reanimated` | Smooth animations |
 
 
 ## ✨ Mental-Rest App Key Highlights
