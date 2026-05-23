@@ -131,6 +131,9 @@ mind-space/
 │ └── _layout.tsx # Root navigation
 ├── components/ # Reusable UI components
 │ ├── MoodCard.tsx
+│ ├── JournalEntry.tsx
+│ └── CommunityPost.tsx
+├── constants/ # Theme, colors, config
 
 
 ## 📦 Key Dependencies
