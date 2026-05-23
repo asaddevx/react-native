@@ -115,6 +115,8 @@ app/
 |:--------|:--------|
 | `expo` | React Native framework |
 | `expo-router` | File-based navigation |
+| `firebase` | Auth, Firestore, Storage |
+| `@google/generative-ai` | Gemini AI integration |
 
 
 ## ✨ Mental-Rest App Key Highlights
