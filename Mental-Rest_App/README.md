@@ -124,6 +124,9 @@ mind-space/
 │ │ └── forgot-password.tsx
 │ ├── (tabs)/ # Main tab navigation
 │ │ ├── index.tsx # Home / Dashboard
+│ │ ├── mood.tsx # Mood Tracker
+│ │ ├── chat.tsx # AI Chat
+│ │ ├── journal.tsx # Journal entries
 
 
 ## 📦 Key Dependencies
