@@ -156,6 +156,10 @@ A thoughtful and intelligent mental wellness application that combines AI with e
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B67F?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="NativeWind" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    
 </p>
 
 ---
