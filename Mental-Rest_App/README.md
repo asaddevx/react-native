@@ -113,6 +113,8 @@ app/
 
 | Package | Purpose |
 |:--------|:--------|
+| `expo` | React Native framework |
+| `expo-router` | File-based navigation |
 
 
 ## ✨ Mental-Rest App Key Highlights
