@@ -123,6 +123,12 @@ app/
 | `zustand` | State management |
 
 ---
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+
+---
 
 ## ✨ Mental-Rest App Key Highlights
 
