@@ -127,6 +127,10 @@ mind-space/
 │ │ ├── mood.tsx # Mood Tracker
 │ │ ├── chat.tsx # AI Chat
 │ │ ├── journal.tsx # Journal entries
+│ │ └── community.tsx # Community feed
+│ └── _layout.tsx # Root navigation
+├── components/ # Reusable UI components
+│ ├── MoodCard.tsx
 
 
 ## 📦 Key Dependencies
