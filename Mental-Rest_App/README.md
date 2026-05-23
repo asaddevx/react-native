@@ -116,6 +116,7 @@ app/
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
 ```
+```
 mind-space/
 ├── app/ # Expo Router screens
 │ ├── (auth)/ # Login, Signup, Forgot Password
@@ -137,8 +138,10 @@ mind-space/
 ├── contexts/ # AuthProvider, ThemeProvider
 ├── hooks/ # Custom hooks (useAuth, useMood)
 ├── services/ # Firebase, Gemini AI
+├── types/ # TypeScript interfaces
+└── utils/ # Helpers, formatters, validators
 
-
+```
 ## 📦 Key Dependencies
 
 | Package | Purpose |
