@@ -121,6 +121,9 @@ mind-space/
 │ ├── (auth)/ # Login, Signup, Forgot Password
 │ │ ├── login.tsx
 │ │ ├── signup.tsx
+│ │ └── forgot-password.tsx
+│ ├── (tabs)/ # Main tab navigation
+│ │ ├── index.tsx # Home / Dashboard
 
 
 ## 📦 Key Dependencies
