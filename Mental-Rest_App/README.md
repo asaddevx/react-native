@@ -116,6 +116,13 @@ app/
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
 ```
+mind-space/
+├── app/ # Expo Router screens
+│ ├── (auth)/ # Login, Signup, Forgot Password
+│ │ ├── login.tsx
+│ │ ├── signup.tsx
+
+
 ## 📦 Key Dependencies
 
 | Package | Purpose |
