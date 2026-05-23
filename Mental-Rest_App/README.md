@@ -119,7 +119,10 @@ app/
 | `@google/generative-ai` | Gemini AI integration |
 | `react-native-chart-kit` | Mood analytics charts |
 | `react-native-reanimated` | Smooth animations |
+| `react-native-keychain` | Biometric security |
+| `zustand` | State management |
 
+---
 
 ## ✨ Mental-Rest App Key Highlights
 
