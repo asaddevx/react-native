@@ -109,6 +109,11 @@ app/
 ├── community/    # Community Feed & Interaction logic
 └── services/     # AI, Firebase, and Photo processing logic
 ```
+## 📦 Key Dependencies
+
+| Package | Purpose |
+|:--------|:--------|
+
 
 ## ✨ Mental-Rest App Key Highlights
 
