@@ -134,6 +134,9 @@ mind-space/
 │ ├── JournalEntry.tsx
 │ └── CommunityPost.tsx
 ├── constants/ # Theme, colors, config
+├── contexts/ # AuthProvider, ThemeProvider
+├── hooks/ # Custom hooks (useAuth, useMood)
+├── services/ # Firebase, Gemini AI
 
 
 ## 📦 Key Dependencies
