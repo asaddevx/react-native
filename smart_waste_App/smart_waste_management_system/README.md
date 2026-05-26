@@ -112,6 +112,9 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 smart_waste_management_system/
 ├── app/ # Expo Router screens
 │ ├── (auth)/ # Login, Signup, Role Selection
+│ ├── (citizen)/ # Citizen dashboard, reports
+│ ├── (worker)/ # Worker tasks, route navigation
+│ ├── (admin)/ # Admin analytics, bin management
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
