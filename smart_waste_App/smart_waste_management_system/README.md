@@ -178,7 +178,8 @@ A complete municipal waste management solution that reduces operational costs, i
   <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Backend-Firebase_Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Maps-Google_Maps_API-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
-    
+  <img src="https://img.shields.io/badge/Offline_First-AsyncStorage-00C853?style=flat-square" />
+  </p>  
 </p>
 
 ---
