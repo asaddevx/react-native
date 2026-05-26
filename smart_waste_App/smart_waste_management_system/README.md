@@ -109,6 +109,9 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 ---
 ## 📂 Project Structure
 
+smart_waste_management_system/
+├── app/ # Expo Router screens
+│ ├── (auth)/ # Login, Signup, Role Selection
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
