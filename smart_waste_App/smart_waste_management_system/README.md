@@ -174,6 +174,9 @@ A complete municipal waste management solution that reduces operational costs, i
   <img src="https://img.shields.io/badge/Zustand-FF4081?style=for-the-badge" alt="Zustand" />
   <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
   <img src="https://img.shields.io/badge/MapLibre-00B4D8?style=for-the-badge" alt="MapLibre" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    
 </p>
 
 ---
