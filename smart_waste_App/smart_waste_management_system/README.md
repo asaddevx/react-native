@@ -118,6 +118,9 @@ smart_waste_management_system/
 │ └── _layout.tsx # Root navigation
 ├── components/ # Reusable UI components
 ├── constants/ # Theme, colors, config
+├── contexts/ # AuthContext, RoleContext
+├── hooks/ # Custom hooks (useBin, useRoute)
+├── services/ # Firebase, Maps API
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
