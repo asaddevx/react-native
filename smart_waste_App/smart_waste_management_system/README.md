@@ -124,6 +124,13 @@ smart_waste_management_system/
 ├── types/ # TypeScript interfaces
 └── utils/ # Helpers, formatters, validators
 
+---
+## 📦 Key Dependencies
+
+| Package | Purpose |
+|:--------|:--------|
+| `expo` | React Native framework |
+| `expo-router` | File-based navigation |
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
