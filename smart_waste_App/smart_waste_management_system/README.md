@@ -121,6 +121,9 @@ smart_waste_management_system/
 ├── contexts/ # AuthContext, RoleContext
 ├── hooks/ # Custom hooks (useBin, useRoute)
 ├── services/ # Firebase, Maps API
+├── types/ # TypeScript interfaces
+└── utils/ # Helpers, formatters, validators
+
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
