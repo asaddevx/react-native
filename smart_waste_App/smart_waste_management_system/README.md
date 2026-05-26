@@ -134,6 +134,9 @@ smart_waste_management_system/
 | `firebase` | Realtime Database, Auth |
 | `react-native-maps` | Google Maps integration |
 | `react-native-paper` | Material Design UI |
+| `async-storage` | Offline queue storage |
+| `expo-notifications` | Push alerts |
+| `react-native-qrcode-scanner` | QR verification |
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
