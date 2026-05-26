@@ -131,6 +131,9 @@ smart_waste_management_system/
 |:--------|:--------|
 | `expo` | React Native framework |
 | `expo-router` | File-based navigation |
+| `firebase` | Realtime Database, Auth |
+| `react-native-maps` | Google Maps integration |
+| `react-native-paper` | Material Design UI |
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
