@@ -115,6 +115,9 @@ smart_waste_management_system/
 │ ├── (citizen)/ # Citizen dashboard, reports
 │ ├── (worker)/ # Worker tasks, route navigation
 │ ├── (admin)/ # Admin analytics, bin management
+│ └── _layout.tsx # Root navigation
+├── components/ # Reusable UI components
+├── constants/ # Theme, colors, config
 
 ---
 ## ✨ Smart Waste Management System Key Highlights
