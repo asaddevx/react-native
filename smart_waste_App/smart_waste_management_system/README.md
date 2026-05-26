@@ -176,6 +176,7 @@ A complete municipal waste management solution that reduces operational costs, i
   <img src="https://img.shields.io/badge/MapLibre-00B4D8?style=for-the-badge" alt="MapLibre" />
   <p align="center">
   <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Firebase_Realtime-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
     
 </p>
 
