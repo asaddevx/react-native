@@ -107,6 +107,10 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 | **Sync** | Offline-first sync queue with AsyncStorage |
 
 ---
+## 📂 Project Structure
+
+
+---
 ## ✨ Smart Waste Management System Key Highlights
 
 - **Real-Time Bin Monitoring** — Live status updates for waste bins with fill-level sensors and overflow alerts
