@@ -262,6 +262,9 @@ Smart_Budget_Analyzser/
 ├── components/ # Reusable UI components
 ├── constants/ # Theme, colors, config
 ├── contexts/ # AuthContext, BudgetContext, ThemeContext
+├── hooks/ # Custom hooks (useAuth, useTransactions)
+├── services/ # Firebase, Supabase, AI Service
+├── types/ # TypeScript interfaces
 
 
 ---
