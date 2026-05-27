@@ -268,7 +268,8 @@ Smart_Budget_Analyzser/
 ├── utils/ # Helpers, formatters, validators
 └── Ai_Model/ # Python ML training pipeline
 ├── transactions_rows.csv
-
+├── train_model.py
+└── model.pkl
 
 ---
 
