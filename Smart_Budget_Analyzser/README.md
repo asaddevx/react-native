@@ -265,6 +265,9 @@ Smart_Budget_Analyzser/
 ├── hooks/ # Custom hooks (useAuth, useTransactions)
 ├── services/ # Firebase, Supabase, AI Service
 ├── types/ # TypeScript interfaces
+├── utils/ # Helpers, formatters, validators
+└── Ai_Model/ # Python ML training pipeline
+├── transactions_rows.csv
 
 
 ---
