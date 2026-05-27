@@ -254,6 +254,11 @@ Unlike cloud‑based AI services, our intelligence runs **entirely on your devic
 
 ## 📂 Project Structure
 
+Smart_Budget_Analyzser/
+├── app/ # Expo Router screens
+│ ├── (auth)/ # Login, Signup, Forgot Password
+│ ├── (tabs)/ # Home, Analytics, Budget, Goals, Tools
+
 
 ---
 
