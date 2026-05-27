@@ -102,7 +102,7 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 ---
 
 ## 🛠️ Technical Architecture
-
+```
 | Layer | Tech Stack |
 | :--- | :--- |
 | **Frontend** | React Native (Expo SDK 51), TypeScript |
@@ -112,9 +112,9 @@ Our cities are drowning in waste, and the systems meant to manage it are failing
 | **State** | React Context API + Custom Hooks |
 | **Sync** | Offline-first sync queue with AsyncStorage |
 
----
+```
 ## 📂 Project Structure
-
+```
 smart_waste_management_system/
 ├── app/ # Expo Router screens
 │ ├── (auth)/ # Login, Signup, Role Selection
@@ -130,9 +130,9 @@ smart_waste_management_system/
 ├── types/ # TypeScript interfaces
 └── utils/ # Helpers, formatters, validators
 
----
+```
 ## 📦 Key Dependencies
-
+```
 | Package | Purpose |
 |:--------|:--------|
 | `expo` | React Native framework |
@@ -144,7 +144,8 @@ smart_waste_management_system/
 | `expo-notifications` | Push alerts |
 | `react-native-qrcode-scanner` | QR verification |
 
----
+```
+
 ## ✨ Smart Waste Management System Key Highlights
 
 - **Real-Time Bin Monitoring** — Live status updates for waste bins with fill-level sensors and overflow alerts
