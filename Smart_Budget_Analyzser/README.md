@@ -316,6 +316,8 @@ A practical and visually appealing finance management app that demonstrates stro
   <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" /
   <img src="https://img.shields.io/badge/ML-Random_Forest-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/DB-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Auth-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  </p>  
 </p>
 
 ---
