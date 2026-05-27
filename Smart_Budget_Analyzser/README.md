@@ -270,7 +270,6 @@ Smart_Budget_Analyzser/
 ├── transactions_rows.csv
 ├── train_model.py
 └── model.pkl
-
 ---
 
 
