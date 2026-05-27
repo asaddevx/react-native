@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Offline_AI-00BFFF?style=for-the-badge" alt="Offline AI" />
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/Built_With-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    
 </p>
 
 ## 📱 Project Overview
@@ -255,7 +258,6 @@ Unlike cloud‑based AI services, our intelligence runs **entirely on your devic
 ## 📂 Project Structure
 ```
 Smart_Budget_Analyzser/
-
 ├── app/ # Expo Router screens
 │ ├── (auth)/ # Login, Signup, Forgot Password
 │ ├── (tabs)/ # Home, Analytics, Budget, Goals, Tools
