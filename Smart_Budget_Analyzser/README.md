@@ -258,6 +258,10 @@ Smart_Budget_Analyzser/
 ├── app/ # Expo Router screens
 │ ├── (auth)/ # Login, Signup, Forgot Password
 │ ├── (tabs)/ # Home, Analytics, Budget, Goals, Tools
+│ └── _layout.tsx # Root navigation
+├── components/ # Reusable UI components
+├── constants/ # Theme, colors, config
+├── contexts/ # AuthContext, BudgetContext, ThemeContext
 
 
 ---
