@@ -252,6 +252,11 @@ Unlike cloud‑based AI services, our intelligence runs **entirely on your devic
 
 ---
 
+## 📂 Project Structure
+
+
+---
+
 
 ## ✨ Smart Budget Analyser Key Highlights
 
