@@ -242,6 +242,11 @@ gold-bazar/
 │ └── package.json
 ├── desktop/ # Electron App
 │ ├── src/
+│ │ ├── components/ # React components
+│ │ ├── pages/ # Dashboard, Market, Admin
+│ │ ├── ipc/ # IPC handlers (CORS-proxy, printing)
+│ │ ├── services/ # Firebase, Market API
+│ │ └── preload/ # Preload scripts
 
 
 ## ✨ Gold Bazar Key Highlights
