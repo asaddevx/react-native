@@ -46,6 +46,12 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 
 ---
 
+## 🎥 See GoldDesk in Action
+
+<div align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+  
+
 ## 🔄 The Unified Ecosystem: Mobile + Desktop + Sync
 
 ```mermaid
