@@ -237,6 +237,11 @@ gold-bazar/
 │ │ ├── screens/ # Home, Testing, Profile, Reports
 │ │ ├── navigation/ # Stack & Tab navigators
 │ │ ├── services/ # Firebase, Physics Engine, Sync
+│ │ ├── hooks/ # useAuth, useFirestore, useOfflineQueue
+│ │ └── utils/ # Helpers, formatters, converters
+│ └── package.json
+├── desktop/ # Electron App
+│ ├── src/
 
 
 ## ✨ Gold Bazar Key Highlights
