@@ -49,7 +49,7 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 ## 🎥 See GoldDesk in Action
 
 <div align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="https://www.linkedin.com/posts/asad-ullah-5475a4352_softwareengineering-reactnative-electronjs-ugcPost-7429752733802422272-6d28/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgCJAcBdGZTbx1Y5P7yUS3qXxSw9ITiedU">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
   </a>
   </div>
