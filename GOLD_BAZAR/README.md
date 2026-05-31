@@ -227,6 +227,9 @@ graph LR
 | **Styling** | Premium Dark & Gold UI (Tailwind CSS) |
 
 ---
+## 📂 Project Structure
+
+---
 
 ## ✨ Gold Bazar Key Highlights
 - **Unified Cross-Platform Ecosystem** — React Native Mobile + Electron Desktop with bi-directional Firebase sync
