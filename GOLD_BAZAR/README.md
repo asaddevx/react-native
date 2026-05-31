@@ -55,7 +55,6 @@ The gold testing industry is trapped by a "Legacy Desk" paradigm, creating criti
 </div>
 
 <br>
----
 
 ## 🔄 The Unified Ecosystem: Mobile + Desktop + Sync
 
