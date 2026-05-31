@@ -247,7 +247,10 @@ gold-bazar/
 │ │ ├── ipc/ # IPC handlers (CORS-proxy, printing)
 │ │ ├── services/ # Firebase, Market API
 │ │ └── preload/ # Preload scripts
-
+│ └── package.json
+└── shared/ # Shared types & utilities
+└── types/ # TypeScript interfaces
+```
 
 ## ✨ Gold Bazar Key Highlights
 - **Unified Cross-Platform Ecosystem** — React Native Mobile + Electron Desktop with bi-directional Firebase sync
