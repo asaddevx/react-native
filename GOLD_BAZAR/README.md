@@ -229,7 +229,11 @@ graph LR
 ---
 ## 📂 Project Structure
 
----
+```
+gold-bazar/
+├── mobile/ # React Native App
+│ ├── src/
+
 
 ## ✨ Gold Bazar Key Highlights
 - **Unified Cross-Platform Ecosystem** — React Native Mobile + Electron Desktop with bi-directional Firebase sync
