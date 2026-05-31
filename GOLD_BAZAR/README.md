@@ -233,6 +233,10 @@ graph LR
 gold-bazar/
 ├── mobile/ # React Native App
 │ ├── src/
+│ │ ├── components/ # Reusable UI components
+│ │ ├── screens/ # Home, Testing, Profile, Reports
+│ │ ├── navigation/ # Stack & Tab navigators
+│ │ ├── services/ # Firebase, Physics Engine, Sync
 
 
 ## ✨ Gold Bazar Key Highlights
