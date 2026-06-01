@@ -60,14 +60,16 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 ## 🎥 See Budget Analyzer in Action 
 
 <div align="center">
-  <a https://drive.google.com/file/d/1C-TvsmfO5_pv__Bw6UZ_1f5HH9jNeNva/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1C-TvsmfO5_pv__Bw6UZ_1f5HH9jNeNva/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
-   </a>
+  </a>
   &nbsp;
   <a href="https://drive.google.com/file/d/1C-TvsmfO5_pv__Bw6UZ_1f5HH9jNeNva/view?usp=sharing">
-    <img src="https://img.shields.io/badge/📱_Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />  
+    <img src="https://img.shields.io/badge/📱_Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
-</div>  
+</div>
+
+<br> 
 
 ## �� Project Objectives
 
