@@ -59,8 +59,9 @@ Millions of people struggle silently with their mental health every day. The bar
   <a href="YOUR_APK_LINK_HERE">
     <img src="https://img.shields.io/badge/📱_Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
-  
----
+  </div>
+<br>
+
 ## 📸 App Preview
 
 <div align="center">
