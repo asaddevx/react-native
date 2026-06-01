@@ -49,6 +49,12 @@ Millions of people struggle silently with their mental health every day. The bar
 - **From Loneliness to Belonging** — The AI-moderated community ensures supportive interactions while filtering harmful content.
 
 ---
+## 🎥 Watch Mind Space in Action
+
+<div align="center">
+  <a href="YOUR_VIDEO_LINK_HERE">
+    
+---
 ## 📸 App Preview
 
 <div align="center">
