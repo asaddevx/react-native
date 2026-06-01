@@ -52,11 +52,13 @@ Millions of people struggle silently with their mental health every day. The bar
 ## 🎥 Watch Mind Space in Action
 
 <div align="center">
-  <a href="YOUR_VIDEO_LINK_HERE">
+  <a href="mind space:
+https://drive.google.com/file/d/1aWiR1SPMZgMG7_NjOe8MMYcjtODtLKrD/view?usp=sharing">
     <img src="https://img.shields.io/badge/▶️_Watch_Demo_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Demo Video" />
   </a>
  &nbsp;
-  <a href="YOUR_APK_LINK_HERE">
+  <a href="mind space:
+https://drive.google.com/file/d/1aWiR1SPMZgMG7_NjOe8MMYcjtODtLKrD/view?usp=sharing">
     <img src="https://img.shields.io/badge/📱_Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />
   </a>
   </div>
