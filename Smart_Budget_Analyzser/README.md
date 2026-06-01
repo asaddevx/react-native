@@ -66,6 +66,8 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
   &nbsp;
   <a href="https://drive.google.com/file/d/1aWiR1SPMZgMG7_NjOe8MMYcjtODtLKrD/view?usp=sharing">
     <img src="https://img.shields.io/badge/📱_Download_APK-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Download APK" />  
+  </a>
+</div>  
 ---
 
 ## �� Project Objectives
