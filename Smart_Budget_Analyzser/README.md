@@ -57,6 +57,9 @@ Managing personal finances is a source of anxiety for millions. The obstacles ar
 - **Academic‑Grade AI Validation** – Our Random Forest model achieved **92% accuracy** on the test set, and the live heuristic score is mathematically designed to encourage better saving habits (scoring penalties for spending >90% of income, bonuses for savings >50%).
 
 ---
+## 🎥 See Budget Analyzer in Action 
+
+---
 
 ## �� Project Objectives
 
