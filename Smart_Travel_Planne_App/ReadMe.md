@@ -51,7 +51,7 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 ## 🎥 Demo Video
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/10dmUWM8dqSloW1vUBRlrKuNzs0nW95Rl/view?usp=sharing" target="_blank">
+  <a href="https://www.linkedin.com/posts/asad-ullah-5475a4352_ai-traveltech-reactnative-ugcPost-7386096803378749440-M3Mx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFgCJAcBdGZTbx1Y5P7yUS3qXxSw9ITiedU" target="_blank">
     <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
   </a>
 </p>
