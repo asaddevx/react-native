@@ -48,6 +48,16 @@ Planning a trip is often more stressful than the job you're trying to escape. Tr
 
 ---
 
+## 🎥 Demo Video
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/10dmUWM8dqSloW1vUBRlrKuNzs0nW95Rl/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Watch_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Demo" />
+  </a>
+</p>
+
+---
+
 ## 📱 Experience the App
 
 <div align="center">
