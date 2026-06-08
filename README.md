@@ -60,8 +60,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 - **Cross-Platform Excellence** — Beautiful, consistent UI on both iOS and Android
 - **Secure & Scalable Codebase** — Clean Architecture, JWT authentication, and secure storage
 
-
-**Built with focus on **performance, maintainability, and delightful user experience**.
+Built with focus on **performance, maintainability, and delightful user experience**.
 ---
 ## 📊 Repository Analytics
 
