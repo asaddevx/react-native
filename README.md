@@ -7,9 +7,9 @@
 
 Across diverse sectors—Fintech, Healthcare, and Institutional Management—there is a critical **Stationary System Barrier**. Legacy operations are tethered to fixed desktop terminals, creating massive bottlenecks where data can only be processed from a specific physical location. This results in:
 
-* **Operational Paralysis:** Field-level stakeholders (jewelers, advisors, donors) cannot perform high-stakes tasks at the point of need.
-* **The "Manual Sync" Error:** Information gathered on the move is manually transcribed into systems later, leading to "Blind Profits" and "Ghost Stock" desyncs.
-* **Delayed Response Latency:** Critical decisions, such as medical matching or complaint escalation, are slowed down by the requirement to be at a desk to initiate a workflow.
+* **Operational Paralysis:** Field-level stakeholders (jewelers, advisors, donors) cannot perform high-stakes tasks at the point of need
+* **The "Manual Sync" Error:** Information gathered on the move is manually transcribed into systems later, leading to "Blind Profits" and "Ghost Stock" desyncs
+* **Delayed Response Latency:** Critical decisions, such as medical matching or complaint escalation, are slowed down by the requirement to be at a desk to initiate a workflow
 
 ## 💡 The Solution: Untethering Industry with Mobile-First OS
 
