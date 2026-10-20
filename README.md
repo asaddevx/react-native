@@ -43,7 +43,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 * **Key Tech**: React Native, Google Maps Platform.
 
 ---
-## 🛠️ Mobile Engineering Standards
+## 🛠️ Mobile Engineering Standards:
 
 * **Enterprise Synchronization**: Every app acts as a real-time "Handshake" with central web and desktop terminals.
 * **Scientific Precision**: Implementation of complex domain logic, from **fluid physics** to **traditional unit math**.
