@@ -62,7 +62,7 @@ My engineering focus is on **Systemic Untethering**. I architect mobile-first ec
 
 Built with focus on **performance, maintainability, and delightful user experience**.
 ---
-## 📊 Repository Analytics
+## 📊 Repository Analytics:
 
 <p align="center">
   <!-- 1. Repository Stats Card (Best working version for single repo) -->
